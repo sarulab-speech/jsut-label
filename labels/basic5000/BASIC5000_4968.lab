@@ -1,0 +1,12 @@
+0 2900000 xx^xx-sil+i=ch/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_5%0_xx_0/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_6/K:1+1-6
+2900000 3500000 xx^sil-i+ch=i/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+3500000 4700000 sil^i-ch+i=g/A:-3+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+4700000 5300000 i^ch-i+g=e/A:-3+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+5300000 5699999 ch^i-g+e=N/A:-2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+5699999 6600000 i^g-e+N=k/A:-2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+6600000 7500000 g^e-N+k=o/A:-1+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+7500000 8600000 e^N-k+o=j/A:0+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+8600000 9500000 N^k-o+j=i/A:0+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+9500000 10800000 k^o-j+i=sil/A:1+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+10800000 11900000 o^j-i+sil=xx/A:1+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_5#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+11900000 14500000 j^i-sil+xx=xx/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_5!0_xx-0/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_6/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-6
