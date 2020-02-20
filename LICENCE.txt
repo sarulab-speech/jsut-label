@@ -1,7 +1,7 @@
 jsut-label: context labels and pronunciation data for JSUT corpus.
 
 LICENCE:
-   Text in this corpus is licensed as follows. The text data were modified and pronunciation information is added.
+   Text in  corpus is licensed as follows. The text data were modified and pronunciation information is added.
       basic5000
          - wikipedia (https://ja.wikipedia.org/) CC-BY-SA 3.0 
          - TANAKA corpus (http://www.edrdg.org/wiki/index.php/Tanaka_Corpus) CC-BY 2.0
