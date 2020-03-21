@@ -1,9 +1,9 @@
 0 3000000 xx^xx-sil+a=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_0/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:2+5-16
-3000000 5500000 xx^sil-a+a=k/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:2_2%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+16/J:4_14/K:2+5-16
-5500000 6000000 sil^a-a+k=o/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:2_2%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+16/J:4_14/K:2+5-16
+3000000 5500000 xx^sil-a+a=pau/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:2_2%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+16/J:4_14/K:2+5-16
+5500000 6000000 sil^a-a+pau=k/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:2_2%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+16/J:4_14/K:2+5-16
 6000000 7100000 a^a-pau+k=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_2%0_xx_1/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_14/K:2+5-16
-7100000 7800000 a^a-k+o=n/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:2_2#0_xx@1_4|1_14/G:4_4%0_xx_0/H:1_2/I:4-14@2+1&2-4|3+14/J:xx_xx/K:2+5-16
-7800000 8199999 a^k-o+n=o/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:2_2#0_xx@1_4|1_14/G:4_4%0_xx_0/H:1_2/I:4-14@2+1&2-4|3+14/J:xx_xx/K:2+5-16
+7100000 7800000 a^pau-k+o=n/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:2_2#0_xx@1_4|1_14/G:4_4%0_xx_0/H:1_2/I:4-14@2+1&2-4|3+14/J:xx_xx/K:2+5-16
+7800000 8199999 pau^k-o+n=o/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:2_2#0_xx@1_4|1_14/G:4_4%0_xx_0/H:1_2/I:4-14@2+1&2-4|3+14/J:xx_xx/K:2+5-16
 8199999 8800000 k^o-n+o=y/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:2_2#0_xx@1_4|1_14/G:4_4%0_xx_0/H:1_2/I:4-14@2+1&2-4|3+14/J:xx_xx/K:2+5-16
 8800000 9300000 o^n-o+y=o/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:2_2#0_xx@1_4|1_14/G:4_4%0_xx_0/H:1_2/I:4-14@2+1&2-4|3+14/J:xx_xx/K:2+5-16
 9300000 10100000 n^o-y+o=o/A:-3+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-0/F:4_4#0_xx@2_3|3_12/G:4_3%0_xx_0/H:1_2/I:4-14@2+1&2-4|3+14/J:xx_xx/K:2+5-16

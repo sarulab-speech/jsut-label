@@ -13,11 +13,11 @@
 10000000 10300000 a^k-e+m=o/A:-2+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_8#0_xx@1_1|1_8/G:6_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+24/J:3_16/K:2+4-24
 10300000 11200000 k^e-m+o=ch/A:-1+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_8#0_xx@1_1|1_8/G:6_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+24/J:3_16/K:2+4-24
 11200000 11600000 e^m-o+ch=i/A:-1+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_8#0_xx@1_1|1_8/G:6_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+24/J:3_16/K:2+4-24
-11600000 13000000 m^o-ch+i=t/A:0+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_8#0_xx@1_1|1_8/G:6_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+24/J:3_16/K:2+4-24
-13000000 14000000 o^ch-i+t=a/A:0+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_8#0_xx@1_1|1_8/G:6_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+24/J:3_16/K:2+4-24
+11600000 13000000 m^o-ch+i=pau/A:0+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_8#0_xx@1_1|1_8/G:6_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+24/J:3_16/K:2+4-24
+13000000 14000000 o^ch-i+pau=t/A:0+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_8#0_xx@1_1|1_8/G:6_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+24/J:3_16/K:2+4-24
 14000000 15200000 ch^i-pau+t=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_5%0_xx_1/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_16/K:2+4-24
-15200000 16700000 ch^i-t+a=i/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:6_5#0_xx@1_3|1_16/G:5_3%0_xx_0/H:1_8/I:3-16@2+1&2-3|9+16/J:xx_xx/K:2+4-24
-16700000 17500000 i^t-a+i=h/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:6_5#0_xx@1_3|1_16/G:5_3%0_xx_0/H:1_8/I:3-16@2+1&2-3|9+16/J:xx_xx/K:2+4-24
+15200000 16700000 i^pau-t+a=i/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:6_5#0_xx@1_3|1_16/G:5_3%0_xx_0/H:1_8/I:3-16@2+1&2-3|9+16/J:xx_xx/K:2+4-24
+16700000 17500000 pau^t-a+i=h/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:6_5#0_xx@1_3|1_16/G:5_3%0_xx_0/H:1_8/I:3-16@2+1&2-3|9+16/J:xx_xx/K:2+4-24
 17500000 17800000 t^a-i+h=e/A:-3+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:6_5#0_xx@1_3|1_16/G:5_3%0_xx_0/H:1_8/I:3-16@2+1&2-3|9+16/J:xx_xx/K:2+4-24
 17800000 18800000 a^i-h+e=N/A:-2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:6_5#0_xx@1_3|1_16/G:5_3%0_xx_0/H:1_8/I:3-16@2+1&2-3|9+16/J:xx_xx/K:2+4-24
 18800000 19100000 i^h-e+N=d/A:-2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_8!0_xx-1/F:6_5#0_xx@1_3|1_16/G:5_3%0_xx_0/H:1_8/I:3-16@2+1&2-3|9+16/J:xx_xx/K:2+4-24

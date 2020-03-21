@@ -19,11 +19,11 @@
 13200000 13899999 ch^a-cl+t=a/A:-1+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-0/F:5_4#0_xx@3_1|9_5/G:3_3%0_xx_1/H:xx_xx/I:3-13@1+2&1-5|1+20/J:2_7/K:2+5-20
 13899999 14400000 a^cl-t+a=r/A:0+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-0/F:5_4#0_xx@3_1|9_5/G:3_3%0_xx_1/H:xx_xx/I:3-13@1+2&1-5|1+20/J:2_7/K:2+5-20
 14400000 14900000 cl^t-a+r=a/A:0+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-0/F:5_4#0_xx@3_1|9_5/G:3_3%0_xx_1/H:xx_xx/I:3-13@1+2&1-5|1+20/J:2_7/K:2+5-20
-14900000 15300000 t^a-r+a=ch/A:1+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-0/F:5_4#0_xx@3_1|9_5/G:3_3%0_xx_1/H:xx_xx/I:3-13@1+2&1-5|1+20/J:2_7/K:2+5-20
-15300000 16299999 a^r-a+ch=a/A:1+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-0/F:5_4#0_xx@3_1|9_5/G:3_3%0_xx_1/H:xx_xx/I:3-13@1+2&1-5|1+20/J:2_7/K:2+5-20
+14900000 15300000 t^a-r+a=pau/A:1+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-0/F:5_4#0_xx@3_1|9_5/G:3_3%0_xx_1/H:xx_xx/I:3-13@1+2&1-5|1+20/J:2_7/K:2+5-20
+15300000 16299999 a^r-a+pau=ch/A:1+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_2!0_xx-0/F:5_4#0_xx@3_1|9_5/G:3_3%0_xx_1/H:xx_xx/I:3-13@1+2&1-5|1+20/J:2_7/K:2+5-20
 16299999 16600000 r^a-pau+ch=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_3%0_xx_1/H:3_13/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_7/K:2+5-20
-16600000 17900000 r^a-ch+a=N/A:-2+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:3_3#0_xx@1_2|1_7/G:4_2%1_xx_0/H:3_13/I:2-7@2+1&4-2|14+7/J:xx_xx/K:2+5-20
-17900000 18500000 a^ch-a+N=t/A:-2+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:3_3#0_xx@1_2|1_7/G:4_2%1_xx_0/H:3_13/I:2-7@2+1&4-2|14+7/J:xx_xx/K:2+5-20
+16600000 17900000 a^pau-ch+a=N/A:-2+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:3_3#0_xx@1_2|1_7/G:4_2%1_xx_0/H:3_13/I:2-7@2+1&4-2|14+7/J:xx_xx/K:2+5-20
+17900000 18500000 pau^ch-a+N=t/A:-2+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:3_3#0_xx@1_2|1_7/G:4_2%1_xx_0/H:3_13/I:2-7@2+1&4-2|14+7/J:xx_xx/K:2+5-20
 18500000 19300000 ch^a-N+t=o/A:-1+2+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:3_3#0_xx@1_2|1_7/G:4_2%1_xx_0/H:3_13/I:2-7@2+1&4-2|14+7/J:xx_xx/K:2+5-20
 19300000 19700000 a^N-t+o=f/A:0+3+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:3_3#0_xx@1_2|1_7/G:4_2%1_xx_0/H:3_13/I:2-7@2+1&4-2|14+7/J:xx_xx/K:2+5-20
 19700000 20000000 N^t-o+f=u/A:0+3+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_4!0_xx-1/F:3_3#0_xx@1_2|1_7/G:4_2%1_xx_0/H:3_13/I:2-7@2+1&4-2|14+7/J:xx_xx/K:2+5-20

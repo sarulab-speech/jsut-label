@@ -7,11 +7,11 @@
 6100000 7500000 r^u-e+r=u/A:1+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+26/J:4_20/K:2+5-26
 7500000 8000000 u^e-r+u=w/A:2+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+26/J:4_20/K:2+5-26
 8000000 8400000 e^r-u+w=a/A:2+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+26/J:4_20/K:2+5-26
-8400000 9700000 r^u-w+a=a/A:3+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+26/J:4_20/K:2+5-26
-9700000 10400000 u^w-a+a=r/A:3+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+26/J:4_20/K:2+5-26
+8400000 9700000 r^u-w+a=pau/A:3+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+26/J:4_20/K:2+5-26
+9700000 10400000 u^w-a+pau=a/A:3+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+26/J:4_20/K:2+5-26
 10400000 11600000 w^a-pau+a=r/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_5%0_xx_1/H:1_6/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_20/K:2+5-26
-11600000 12000000 w^a-a+r=u/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:5_5#0_xx@1_4|1_20/G:7_3%0_xx_0/H:1_6/I:4-20@2+1&2-4|7+20/J:xx_xx/K:2+5-26
-12000000 12900000 a^a-r+u=k/A:-3+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:5_5#0_xx@1_4|1_20/G:7_3%0_xx_0/H:1_6/I:4-20@2+1&2-4|7+20/J:xx_xx/K:2+5-26
+11600000 12000000 a^pau-a+r=u/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:5_5#0_xx@1_4|1_20/G:7_3%0_xx_0/H:1_6/I:4-20@2+1&2-4|7+20/J:xx_xx/K:2+5-26
+12000000 12900000 pau^a-r+u=k/A:-3+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:5_5#0_xx@1_4|1_20/G:7_3%0_xx_0/H:1_6/I:4-20@2+1&2-4|7+20/J:xx_xx/K:2+5-26
 12900000 13400000 a^r-u+k=o/A:-3+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:5_5#0_xx@1_4|1_20/G:7_3%0_xx_0/H:1_6/I:4-20@2+1&2-4|7+20/J:xx_xx/K:2+5-26
 13400000 14400000 r^u-k+o=o/A:-2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:5_5#0_xx@1_4|1_20/G:7_3%0_xx_0/H:1_6/I:4-20@2+1&2-4|7+20/J:xx_xx/K:2+5-26
 14400000 15000000 u^k-o+o=r/A:-2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-1/F:5_5#0_xx@1_4|1_20/G:7_3%0_xx_0/H:1_6/I:4-20@2+1&2-4|7+20/J:xx_xx/K:2+5-26

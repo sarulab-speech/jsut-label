@@ -14,11 +14,11 @@
 9300000 10200000 k^i-ch+a=cl/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@2_1|5_5/G:7_6%0_xx_1/H:xx_xx/I:2-9@1+2&1-5|1+25/J:3_16/K:2+5-25
 10200000 10900000 i^ch-a+cl=t/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@2_1|5_5/G:7_6%0_xx_1/H:xx_xx/I:2-9@1+2&1-5|1+25/J:3_16/K:2+5-25
 10900000 11500000 ch^a-cl+t=e/A:3+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@2_1|5_5/G:7_6%0_xx_1/H:xx_xx/I:2-9@1+2&1-5|1+25/J:3_16/K:2+5-25
-11500000 12200000 a^cl-t+e=ts/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@2_1|5_5/G:7_6%0_xx_1/H:xx_xx/I:2-9@1+2&1-5|1+25/J:3_16/K:2+5-25
-12200000 13600000 cl^t-e+ts=u/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@2_1|5_5/G:7_6%0_xx_1/H:xx_xx/I:2-9@1+2&1-5|1+25/J:3_16/K:2+5-25
+11500000 12200000 a^cl-t+e=pau/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@2_1|5_5/G:7_6%0_xx_1/H:xx_xx/I:2-9@1+2&1-5|1+25/J:3_16/K:2+5-25
+12200000 13600000 cl^t-e+pau=ts/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@2_1|5_5/G:7_6%0_xx_1/H:xx_xx/I:2-9@1+2&1-5|1+25/J:3_16/K:2+5-25
 13600000 13899999 t^e-pau+ts=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_6%0_xx_1/H:2_9/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_16/K:2+5-25
-13899999 15800000 t^e-ts+u=m/A:-5+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_6#0_xx@1_3|1_16/G:4_2%0_xx_0/H:2_9/I:3-16@2+1&3-3|10+16/J:xx_xx/K:2+5-25
-15800000 16100000 e^ts-u+m=e/A:-5+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_6#0_xx@1_3|1_16/G:4_2%0_xx_0/H:2_9/I:3-16@2+1&3-3|10+16/J:xx_xx/K:2+5-25
+13899999 15800000 e^pau-ts+u=m/A:-5+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_6#0_xx@1_3|1_16/G:4_2%0_xx_0/H:2_9/I:3-16@2+1&3-3|10+16/J:xx_xx/K:2+5-25
+15800000 16100000 pau^ts-u+m=e/A:-5+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_6#0_xx@1_3|1_16/G:4_2%0_xx_0/H:2_9/I:3-16@2+1&3-3|10+16/J:xx_xx/K:2+5-25
 16100000 16900000 ts^u-m+e=t/A:-4+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_6#0_xx@1_3|1_16/G:4_2%0_xx_0/H:2_9/I:3-16@2+1&3-3|10+16/J:xx_xx/K:2+5-25
 16900000 17500000 u^m-e+t=a/A:-4+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_6#0_xx@1_3|1_16/G:4_2%0_xx_0/H:2_9/I:3-16@2+1&3-3|10+16/J:xx_xx/K:2+5-25
 17500000 18000000 m^e-t+a=i/A:-3+3+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_6#0_xx@1_3|1_16/G:4_2%0_xx_0/H:2_9/I:3-16@2+1&3-3|10+16/J:xx_xx/K:2+5-25

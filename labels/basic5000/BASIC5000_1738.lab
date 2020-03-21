@@ -17,11 +17,11 @@
 12400000 12700000 i^t-a+n=o/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@3_1|7_5/G:7_1%0_xx_1/H:xx_xx/I:3-11@1+2&1-4|1+18/J:1_7/K:2+4-18
 12700000 13400000 t^a-n+o=d/A:3+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@3_1|7_5/G:7_1%0_xx_1/H:xx_xx/I:3-11@1+2&1-4|1+18/J:1_7/K:2+4-18
 13400000 14200000 a^n-o+d=e/A:3+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@3_1|7_5/G:7_1%0_xx_1/H:xx_xx/I:3-11@1+2&1-4|1+18/J:1_7/K:2+4-18
-14200000 14600000 n^o-d+e=k/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@3_1|7_5/G:7_1%0_xx_1/H:xx_xx/I:3-11@1+2&1-4|1+18/J:1_7/K:2+4-18
-14600000 15900000 o^d-e+k=i/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@3_1|7_5/G:7_1%0_xx_1/H:xx_xx/I:3-11@1+2&1-4|1+18/J:1_7/K:2+4-18
+14200000 14600000 n^o-d+e=pau/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@3_1|7_5/G:7_1%0_xx_1/H:xx_xx/I:3-11@1+2&1-4|1+18/J:1_7/K:2+4-18
+14600000 15900000 o^d-e+pau=k/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:5_1#0_xx@3_1|7_5/G:7_1%0_xx_1/H:xx_xx/I:3-11@1+2&1-4|1+18/J:1_7/K:2+4-18
 15900000 16900000 d^e-pau+k=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_1%0_xx_1/H:3_11/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_7/K:2+4-18
-16900000 17900000 d^e-k+i=cl/A:0+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_1#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:3_11/I:1-7@2+1&4-1|12+7/J:xx_xx/K:2+4-18
-17900000 18500000 e^k-i+cl=t/A:0+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_1#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:3_11/I:1-7@2+1&4-1|12+7/J:xx_xx/K:2+4-18
+16900000 17900000 e^pau-k+i=cl/A:0+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_1#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:3_11/I:1-7@2+1&4-1|12+7/J:xx_xx/K:2+4-18
+17900000 18500000 pau^k-i+cl=t/A:0+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_1#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:3_11/I:1-7@2+1&4-1|12+7/J:xx_xx/K:2+4-18
 18500000 19100000 k^i-cl+t=e/A:1+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_1#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:3_11/I:1-7@2+1&4-1|12+7/J:xx_xx/K:2+4-18
 19100000 19500000 i^cl-t+e=m/A:2+3+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_1#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:3_11/I:1-7@2+1&4-1|12+7/J:xx_xx/K:2+4-18
 19500000 19800000 cl^t-e+m=o/A:2+3+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:7_1#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:3_11/I:1-7@2+1&4-1|12+7/J:xx_xx/K:2+4-18

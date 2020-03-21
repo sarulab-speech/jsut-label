@@ -11,11 +11,11 @@
 8000000 8700000 e^m-i+r=u/A:3+5+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_2#0_xx@1_1|1_7/G:4_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+17/J:3_10/K:2+4-17
 8700000 9100000 m^i-r+u=t/A:4+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_2#0_xx@1_1|1_7/G:4_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+17/J:3_10/K:2+4-17
 9100000 9700000 i^r-u+t=o/A:4+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_2#0_xx@1_1|1_7/G:4_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+17/J:3_10/K:2+4-17
-9700000 10400000 r^u-t+o=k/A:5+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_2#0_xx@1_1|1_7/G:4_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+17/J:3_10/K:2+4-17
-10400000 11700000 u^t-o+k=e/A:5+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_2#0_xx@1_1|1_7/G:4_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+17/J:3_10/K:2+4-17
+9700000 10400000 r^u-t+o=pau/A:5+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_2#0_xx@1_1|1_7/G:4_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+17/J:3_10/K:2+4-17
+10400000 11700000 u^t-o+pau=k/A:5+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_2#0_xx@1_1|1_7/G:4_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+17/J:3_10/K:2+4-17
 11700000 12000000 t^o-pau+k=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_1/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_10/K:2+4-17
-12000000 13000000 t^o-k+e=sh/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:4_1#0_xx@1_3|1_10/G:4_4%0_xx_0/H:1_7/I:3-10@2+1&2-3|8+10/J:xx_xx/K:2+4-17
-13000000 13500000 o^k-e+sh=i/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:4_1#0_xx@1_3|1_10/G:4_4%0_xx_0/H:1_7/I:3-10@2+1&2-3|8+10/J:xx_xx/K:2+4-17
+12000000 13000000 o^pau-k+e=sh/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:4_1#0_xx@1_3|1_10/G:4_4%0_xx_0/H:1_7/I:3-10@2+1&2-3|8+10/J:xx_xx/K:2+4-17
+13000000 13500000 pau^k-e+sh=i/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:4_1#0_xx@1_3|1_10/G:4_4%0_xx_0/H:1_7/I:3-10@2+1&2-3|8+10/J:xx_xx/K:2+4-17
 13500000 14600000 k^e-sh+i=k/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:4_1#0_xx@1_3|1_10/G:4_4%0_xx_0/H:1_7/I:3-10@2+1&2-3|8+10/J:xx_xx/K:2+4-17
 14600000 14900000 e^sh-i+k=i/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:4_1#0_xx@1_3|1_10/G:4_4%0_xx_0/H:1_7/I:3-10@2+1&2-3|8+10/J:xx_xx/K:2+4-17
 14900000 15400000 sh^i-k+i=n/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_2!0_xx-1/F:4_1#0_xx@1_3|1_10/G:4_4%0_xx_0/H:1_7/I:3-10@2+1&2-3|8+10/J:xx_xx/K:2+4-17

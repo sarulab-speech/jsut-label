@@ -11,11 +11,11 @@
 8400000 8900000 a^b-u+k=a/A:0+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+27/J:4_19/K:2+5-27
 8900000 9600000 b^u-k+a=n/A:1+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+27/J:4_19/K:2+5-27
 9600000 10400000 u^k-a+n=i/A:1+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+27/J:4_19/K:2+5-27
-10400000 11000000 k^a-n+i=t/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+27/J:4_19/K:2+5-27
-11000000 12000000 a^n-i+t=a/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+27/J:4_19/K:2+5-27
+10400000 11000000 k^a-n+i=pau/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+27/J:4_19/K:2+5-27
+11000000 12000000 a^n-i+pau=t/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+27/J:4_19/K:2+5-27
 12000000 12300000 n^i-pau+t=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_1/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_19/K:2+5-27
-12300000 13300000 n^i-t+a=d/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:4_1#0_xx@1_4|1_19/G:6_6%0_xx_0/H:1_8/I:4-19@2+1&2-4|9+19/J:xx_xx/K:2+5-27
-13300000 13600000 i^t-a+d=a/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:4_1#0_xx@1_4|1_19/G:6_6%0_xx_0/H:1_8/I:4-19@2+1&2-4|9+19/J:xx_xx/K:2+5-27
+12300000 13300000 i^pau-t+a=d/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:4_1#0_xx@1_4|1_19/G:6_6%0_xx_0/H:1_8/I:4-19@2+1&2-4|9+19/J:xx_xx/K:2+5-27
+13300000 13600000 pau^t-a+d=a/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:4_1#0_xx@1_4|1_19/G:6_6%0_xx_0/H:1_8/I:4-19@2+1&2-4|9+19/J:xx_xx/K:2+5-27
 13600000 14300000 t^a-d+a=ch/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:4_1#0_xx@1_4|1_19/G:6_6%0_xx_0/H:1_8/I:4-19@2+1&2-4|9+19/J:xx_xx/K:2+5-27
 14300000 14900000 a^d-a+ch=i/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:4_1#0_xx@1_4|1_19/G:6_6%0_xx_0/H:1_8/I:4-19@2+1&2-4|9+19/J:xx_xx/K:2+5-27
 14900000 15800000 d^a-ch+i=n/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:4_1#0_xx@1_4|1_19/G:6_6%0_xx_0/H:1_8/I:4-19@2+1&2-4|9+19/J:xx_xx/K:2+5-27

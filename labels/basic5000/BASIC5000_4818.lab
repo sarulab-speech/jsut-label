@@ -5,11 +5,11 @@
 4300000 6000000 e^cl-sh+u=u/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:6_6%0_xx_1/H:xx_xx/I:1-5@1+2&1-5|1+31/J:4_26/K:2+5-31
 6000000 7100000 cl^sh-u+u=w/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:6_6%0_xx_1/H:xx_xx/I:1-5@1+2&1-5|1+31/J:4_26/K:2+5-31
 7100000 7600000 sh^u-u+w=a/A:3+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:6_6%0_xx_1/H:xx_xx/I:1-5@1+2&1-5|1+31/J:4_26/K:2+5-31
-7600000 8600000 u^u-w+a=s/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:6_6%0_xx_1/H:xx_xx/I:1-5@1+2&1-5|1+31/J:4_26/K:2+5-31
-8600000 9400000 u^w-a+s=u/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:6_6%0_xx_1/H:xx_xx/I:1-5@1+2&1-5|1+31/J:4_26/K:2+5-31
+7600000 8600000 u^u-w+a=pau/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:6_6%0_xx_1/H:xx_xx/I:1-5@1+2&1-5|1+31/J:4_26/K:2+5-31
+8600000 9400000 u^w-a+pau=s/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:6_6%0_xx_1/H:xx_xx/I:1-5@1+2&1-5|1+31/J:4_26/K:2+5-31
 9400000 9900000 w^a-pau+s=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_6%0_xx_1/H:1_5/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_26/K:2+5-31
-9900000 11500000 w^a-s+u=i/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:6_6#0_xx@1_4|1_26/G:7_7%0_xx_0/H:1_5/I:4-26@2+1&2-4|6+26/J:xx_xx/K:2+5-31
-11500000 12000000 a^s-u+i=b/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:6_6#0_xx@1_4|1_26/G:7_7%0_xx_0/H:1_5/I:4-26@2+1&2-4|6+26/J:xx_xx/K:2+5-31
+9900000 11500000 a^pau-s+u=i/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:6_6#0_xx@1_4|1_26/G:7_7%0_xx_0/H:1_5/I:4-26@2+1&2-4|6+26/J:xx_xx/K:2+5-31
+11500000 12000000 pau^s-u+i=b/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:6_6#0_xx@1_4|1_26/G:7_7%0_xx_0/H:1_5/I:4-26@2+1&2-4|6+26/J:xx_xx/K:2+5-31
 12000000 12700000 s^u-i+b=o/A:-4+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:6_6#0_xx@1_4|1_26/G:7_7%0_xx_0/H:1_5/I:4-26@2+1&2-4|6+26/J:xx_xx/K:2+5-31
 12700000 13500000 u^i-b+o=k/A:-3+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:6_6#0_xx@1_4|1_26/G:7_7%0_xx_0/H:1_5/I:4-26@2+1&2-4|6+26/J:xx_xx/K:2+5-31
 13500000 14300000 i^b-o+k=u/A:-3+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:6_6#0_xx@1_4|1_26/G:7_7%0_xx_0/H:1_5/I:4-26@2+1&2-4|6+26/J:xx_xx/K:2+5-31

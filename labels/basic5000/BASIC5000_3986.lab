@@ -9,11 +9,11 @@
 7000000 7900000 e^e-k+a=i/A:2+5+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:6_3%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+29/J:4_22/K:2+5-29
 7900000 8800000 e^k-a+i=y/A:2+5+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:6_3%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+29/J:4_22/K:2+5-29
 8800000 9500000 k^a-i+y=a/A:3+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:6_3%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+29/J:4_22/K:2+5-29
-9500000 10500000 a^i-y+a=u/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:6_3%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+29/J:4_22/K:2+5-29
-10500000 11600000 i^y-a+u=N/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:6_3%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+29/J:4_22/K:2+5-29
+9500000 10500000 a^i-y+a=pau/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:6_3%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+29/J:4_22/K:2+5-29
+10500000 11600000 i^y-a+pau=u/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:6_3%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+29/J:4_22/K:2+5-29
 11600000 13300000 y^a-pau+u=N/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_3%0_xx_1/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_22/K:2+5-29
-13300000 14100000 y^a-u+N=d/A:-2+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:6_3#0_xx@1_4|1_22/G:4_1%0_xx_0/H:1_7/I:4-22@2+1&2-4|8+22/J:xx_xx/K:2+5-29
-14100000 15100000 a^u-N+d=o/A:-1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:6_3#0_xx@1_4|1_22/G:4_1%0_xx_0/H:1_7/I:4-22@2+1&2-4|8+22/J:xx_xx/K:2+5-29
+13300000 14100000 a^pau-u+N=d/A:-2+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:6_3#0_xx@1_4|1_22/G:4_1%0_xx_0/H:1_7/I:4-22@2+1&2-4|8+22/J:xx_xx/K:2+5-29
+14100000 15100000 pau^u-N+d=o/A:-1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:6_3#0_xx@1_4|1_22/G:4_1%0_xx_0/H:1_7/I:4-22@2+1&2-4|8+22/J:xx_xx/K:2+5-29
 15100000 15400000 u^N-d+o=o/A:0+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:6_3#0_xx@1_4|1_22/G:4_1%0_xx_0/H:1_7/I:4-22@2+1&2-4|8+22/J:xx_xx/K:2+5-29
 15400000 16100000 N^d-o+o=b/A:0+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:6_3#0_xx@1_4|1_22/G:4_1%0_xx_0/H:1_7/I:4-22@2+1&2-4|8+22/J:xx_xx/K:2+5-29
 16100000 16600000 d^o-o+b=u/A:1+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:6_3#0_xx@1_4|1_22/G:4_1%0_xx_0/H:1_7/I:4-22@2+1&2-4|8+22/J:xx_xx/K:2+5-29

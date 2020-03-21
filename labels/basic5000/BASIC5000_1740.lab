@@ -13,11 +13,11 @@
 10000000 10300000 N^t-a+ch=i/A:3+7+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:9_4#0_xx@1_1|1_9/G:5_1%0_xx_1/H:xx_xx/I:1-9@1+2&1-5|1+28/J:4_19/K:2+5-28
 10300000 11500000 t^a-ch+i=w/A:4+8+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:9_4#0_xx@1_1|1_9/G:5_1%0_xx_1/H:xx_xx/I:1-9@1+2&1-5|1+28/J:4_19/K:2+5-28
 11500000 11900000 a^ch-i+w=a/A:4+8+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:9_4#0_xx@1_1|1_9/G:5_1%0_xx_1/H:xx_xx/I:1-9@1+2&1-5|1+28/J:4_19/K:2+5-28
-11900000 12700000 ch^i-w+a=u/A:5+9+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:9_4#0_xx@1_1|1_9/G:5_1%0_xx_1/H:xx_xx/I:1-9@1+2&1-5|1+28/J:4_19/K:2+5-28
-12700000 13500000 i^w-a+u=ch/A:5+9+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:9_4#0_xx@1_1|1_9/G:5_1%0_xx_1/H:xx_xx/I:1-9@1+2&1-5|1+28/J:4_19/K:2+5-28
+11900000 12700000 ch^i-w+a=pau/A:5+9+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:9_4#0_xx@1_1|1_9/G:5_1%0_xx_1/H:xx_xx/I:1-9@1+2&1-5|1+28/J:4_19/K:2+5-28
+12700000 13500000 i^w-a+pau=u/A:5+9+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:9_4#0_xx@1_1|1_9/G:5_1%0_xx_1/H:xx_xx/I:1-9@1+2&1-5|1+28/J:4_19/K:2+5-28
 13500000 15000000 w^a-pau+u=ch/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_1/H:1_9/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_19/K:2+5-28
-15000000 15900000 w^a-u+ch=u/A:0+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:5_1#0_xx@1_4|1_19/G:5_5%0_xx_0/H:1_9/I:4-19@2+1&2-4|10+19/J:xx_xx/K:2+5-28
-15900000 17200000 a^u-ch+u=u/A:1+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:5_1#0_xx@1_4|1_19/G:5_5%0_xx_0/H:1_9/I:4-19@2+1&2-4|10+19/J:xx_xx/K:2+5-28
+15000000 15900000 a^pau-u+ch=u/A:0+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:5_1#0_xx@1_4|1_19/G:5_5%0_xx_0/H:1_9/I:4-19@2+1&2-4|10+19/J:xx_xx/K:2+5-28
+15900000 17200000 pau^u-ch+u=u/A:1+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:5_1#0_xx@1_4|1_19/G:5_5%0_xx_0/H:1_9/I:4-19@2+1&2-4|10+19/J:xx_xx/K:2+5-28
 17200000 18400000 u^ch-u+u=e/A:1+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:5_1#0_xx@1_4|1_19/G:5_5%0_xx_0/H:1_9/I:4-19@2+1&2-4|10+19/J:xx_xx/K:2+5-28
 18400000 19100000 ch^u-u+e=n/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:5_1#0_xx@1_4|1_19/G:5_5%0_xx_0/H:1_9/I:4-19@2+1&2-4|10+19/J:xx_xx/K:2+5-28
 19100000 19500000 u^u-e+n=o/A:3+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:9_4!0_xx-1/F:5_1#0_xx@1_4|1_19/G:5_5%0_xx_0/H:1_9/I:4-19@2+1&2-4|10+19/J:xx_xx/K:2+5-28

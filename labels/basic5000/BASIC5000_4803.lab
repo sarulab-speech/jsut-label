@@ -32,11 +32,11 @@
 24000000 24500000 e^t-a+m=a/A:-2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-0/F:5_5#0_xx@4_1|16_5/G:9_3%0_xx_1/H:xx_xx/I:4-20@1+2&1-5|1+29/J:1_9/K:2+5-29
 24500000 25400000 t^a-m+a=m/A:-1+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-0/F:5_5#0_xx@4_1|16_5/G:9_3%0_xx_1/H:xx_xx/I:4-20@1+2&1-5|1+29/J:1_9/K:2+5-29
 25400000 25700000 a^m-a+m=a/A:-1+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-0/F:5_5#0_xx@4_1|16_5/G:9_3%0_xx_1/H:xx_xx/I:4-20@1+2&1-5|1+29/J:1_9/K:2+5-29
-25700000 26700000 m^a-m+a=k/A:0+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-0/F:5_5#0_xx@4_1|16_5/G:9_3%0_xx_1/H:xx_xx/I:4-20@1+2&1-5|1+29/J:1_9/K:2+5-29
-26700000 27500000 a^m-a+k=u/A:0+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-0/F:5_5#0_xx@4_1|16_5/G:9_3%0_xx_1/H:xx_xx/I:4-20@1+2&1-5|1+29/J:1_9/K:2+5-29
+25700000 26700000 m^a-m+a=pau/A:0+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-0/F:5_5#0_xx@4_1|16_5/G:9_3%0_xx_1/H:xx_xx/I:4-20@1+2&1-5|1+29/J:1_9/K:2+5-29
+26700000 27500000 a^m-a+pau=k/A:0+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_3!0_xx-0/F:5_5#0_xx@4_1|16_5/G:9_3%0_xx_1/H:xx_xx/I:4-20@1+2&1-5|1+29/J:1_9/K:2+5-29
 27500000 27799999 m^a-pau+k=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:9_3%0_xx_1/H:4_20/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_9/K:2+5-29
-27799999 28300000 m^a-k+u=s/A:-2+1+9/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:9_3#0_xx@1_1|1_9/G:xx_xx%xx_xx_xx/H:4_20/I:1-9@2+1&5-1|21+9/J:xx_xx/K:2+5-29
-28300000 28600000 a^k-u+s=a/A:-2+1+9/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:9_3#0_xx@1_1|1_9/G:xx_xx%xx_xx_xx/H:4_20/I:1-9@2+1&5-1|21+9/J:xx_xx/K:2+5-29
+27799999 28300000 a^pau-k+u=s/A:-2+1+9/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:9_3#0_xx@1_1|1_9/G:xx_xx%xx_xx_xx/H:4_20/I:1-9@2+1&5-1|21+9/J:xx_xx/K:2+5-29
+28300000 28600000 pau^k-u+s=a/A:-2+1+9/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:9_3#0_xx@1_1|1_9/G:xx_xx%xx_xx_xx/H:4_20/I:1-9@2+1&5-1|21+9/J:xx_xx/K:2+5-29
 28600000 29300000 k^u-s+a=r/A:-1+2+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:9_3#0_xx@1_1|1_9/G:xx_xx%xx_xx_xx/H:4_20/I:1-9@2+1&5-1|21+9/J:xx_xx/K:2+5-29
 29300000 30099999 u^s-a+r=a/A:-1+2+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:9_3#0_xx@1_1|1_9/G:xx_xx%xx_xx_xx/H:4_20/I:1-9@2+1&5-1|21+9/J:xx_xx/K:2+5-29
 30099999 30700000 s^a-r+a=s/A:0+3+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-1/F:9_3#0_xx@1_1|1_9/G:xx_xx%xx_xx_xx/H:4_20/I:1-9@2+1&5-1|21+9/J:xx_xx/K:2+5-29

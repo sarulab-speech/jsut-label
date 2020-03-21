@@ -7,11 +7,11 @@
 6100000 7000000 e^e-t+a=a/A:-2+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
 7000000 8000000 e^t-a+a=w/A:-2+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
 8000000 8400000 t^a-a+w=a/A:-1+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
-8400000 9400000 a^a-w+a=k/A:0+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
-9400000 10200000 a^w-a+k=o/A:0+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
+8400000 9400000 a^a-w+a=pau/A:0+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
+9400000 10200000 a^w-a+pau=k/A:0+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
 10200000 12200000 w^a-pau+k=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_1%0_xx_1/H:1_6/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_14/K:2+4-20
-12200000 13600000 w^a-k+o=m/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:6_1#0_xx@1_3|1_14/G:4_1%0_xx_0/H:1_6/I:3-14@2+1&2-3|7+14/J:xx_xx/K:2+4-20
-13600000 13899999 a^k-o+m=a/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:6_1#0_xx@1_3|1_14/G:4_1%0_xx_0/H:1_6/I:3-14@2+1&2-3|7+14/J:xx_xx/K:2+4-20
+12200000 13600000 a^pau-k+o=m/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:6_1#0_xx@1_3|1_14/G:4_1%0_xx_0/H:1_6/I:3-14@2+1&2-3|7+14/J:xx_xx/K:2+4-20
+13600000 13899999 pau^k-o+m=a/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:6_1#0_xx@1_3|1_14/G:4_1%0_xx_0/H:1_6/I:3-14@2+1&2-3|7+14/J:xx_xx/K:2+4-20
 13899999 14900000 k^o-m+a=n/A:1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:6_1#0_xx@1_3|1_14/G:4_1%0_xx_0/H:1_6/I:3-14@2+1&2-3|7+14/J:xx_xx/K:2+4-20
 14900000 15500000 o^m-a+n=o/A:1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:6_1#0_xx@1_3|1_14/G:4_1%0_xx_0/H:1_6/I:3-14@2+1&2-3|7+14/J:xx_xx/K:2+4-20
 15500000 16200000 m^a-n+o=y/A:2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:6_1#0_xx@1_3|1_14/G:4_1%0_xx_0/H:1_6/I:3-14@2+1&2-3|7+14/J:xx_xx/K:2+4-20

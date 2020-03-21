@@ -6,11 +6,11 @@
 5699999 6400000 N^sh-o+o=d/A:-3+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:4_3%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+22/J:4_16/K:2+5-22
 6400000 7000000 sh^o-o+d=a/A:-2+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:4_3%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+22/J:4_16/K:2+5-22
 7000000 7600000 o^o-d+a=i/A:-1+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:4_3%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+22/J:4_16/K:2+5-22
-7600000 8500000 o^d-a+i=k/A:-1+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:4_3%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+22/J:4_16/K:2+5-22
-8500000 9300000 d^a-i+k=i/A:0+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:4_3%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+22/J:4_16/K:2+5-22
+7600000 8500000 o^d-a+i=pau/A:-1+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:4_3%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+22/J:4_16/K:2+5-22
+8500000 9300000 d^a-i+pau=k/A:0+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_6#0_xx@1_1|1_6/G:4_3%0_xx_1/H:xx_xx/I:1-6@1+2&1-5|1+22/J:4_16/K:2+5-22
 9300000 10300000 a^i-pau+k=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_3%0_xx_1/H:1_6/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_16/K:2+5-22
-10300000 11299999 a^i-k+i=cl/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:4_3#0_xx@1_4|1_16/G:2_2%0_xx_0/H:1_6/I:4-16@2+1&2-4|7+16/J:xx_xx/K:2+5-22
-11299999 11600000 i^k-i+cl=ch/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:4_3#0_xx@1_4|1_16/G:2_2%0_xx_0/H:1_6/I:4-16@2+1&2-4|7+16/J:xx_xx/K:2+5-22
+10300000 11299999 i^pau-k+i=cl/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:4_3#0_xx@1_4|1_16/G:2_2%0_xx_0/H:1_6/I:4-16@2+1&2-4|7+16/J:xx_xx/K:2+5-22
+11299999 11600000 pau^k-i+cl=ch/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:4_3#0_xx@1_4|1_16/G:2_2%0_xx_0/H:1_6/I:4-16@2+1&2-4|7+16/J:xx_xx/K:2+5-22
 11600000 12100000 k^i-cl+ch=i/A:-1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:4_3#0_xx@1_4|1_16/G:2_2%0_xx_0/H:1_6/I:4-16@2+1&2-4|7+16/J:xx_xx/K:2+5-22
 12100000 13200000 i^cl-ch+i=r/A:0+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:4_3#0_xx@1_4|1_16/G:2_2%0_xx_0/H:1_6/I:4-16@2+1&2-4|7+16/J:xx_xx/K:2+5-22
 13200000 13700000 cl^ch-i+r=i/A:0+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_6!0_xx-1/F:4_3#0_xx@1_4|1_16/G:2_2%0_xx_0/H:1_6/I:4-16@2+1&2-4|7+16/J:xx_xx/K:2+5-22

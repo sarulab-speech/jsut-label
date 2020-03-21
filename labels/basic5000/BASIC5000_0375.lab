@@ -10,11 +10,11 @@
 7600000 8300000 i^cl-t+a=a/A:2+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:6_6%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+30/J:4_22/K:2+5-30
 8300000 8800000 cl^t-a+a=w/A:2+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:6_6%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+30/J:4_22/K:2+5-30
 8800000 9500000 t^a-a+w=a/A:3+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:6_6%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+30/J:4_22/K:2+5-30
-9500000 10500000 a^a-w+a=a/A:4+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:6_6%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+30/J:4_22/K:2+5-30
-10500000 11500000 a^w-a+a=k/A:4+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:6_6%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+30/J:4_22/K:2+5-30
+9500000 10500000 a^a-w+a=pau/A:4+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:6_6%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+30/J:4_22/K:2+5-30
+10500000 11500000 a^w-a+pau=a/A:4+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_4#0_xx@1_1|1_8/G:6_6%0_xx_1/H:xx_xx/I:1-8@1+2&1-5|1+30/J:4_22/K:2+5-30
 11500000 11800000 w^a-pau+a=k/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_6%0_xx_1/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_22/K:2+5-30
-11800000 13200000 w^a-a+k=a/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:6_6#0_xx@1_4|1_22/G:3_2%0_xx_0/H:1_8/I:4-22@2+1&2-4|9+22/J:xx_xx/K:2+5-30
-13200000 14000000 a^a-k+a=N/A:-4+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:6_6#0_xx@1_4|1_22/G:3_2%0_xx_0/H:1_8/I:4-22@2+1&2-4|9+22/J:xx_xx/K:2+5-30
+11800000 13200000 a^pau-a+k=a/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:6_6#0_xx@1_4|1_22/G:3_2%0_xx_0/H:1_8/I:4-22@2+1&2-4|9+22/J:xx_xx/K:2+5-30
+13200000 14000000 pau^a-k+a=N/A:-4+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:6_6#0_xx@1_4|1_22/G:3_2%0_xx_0/H:1_8/I:4-22@2+1&2-4|9+22/J:xx_xx/K:2+5-30
 14000000 14600000 a^k-a+N=b/A:-4+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:6_6#0_xx@1_4|1_22/G:3_2%0_xx_0/H:1_8/I:4-22@2+1&2-4|9+22/J:xx_xx/K:2+5-30
 14600000 15500000 k^a-N+b=o/A:-3+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:6_6#0_xx@1_4|1_22/G:3_2%0_xx_0/H:1_8/I:4-22@2+1&2-4|9+22/J:xx_xx/K:2+5-30
 15500000 16000000 a^N-b+o=o/A:-2+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_4!0_xx-1/F:6_6#0_xx@1_4|1_22/G:3_2%0_xx_0/H:1_8/I:4-22@2+1&2-4|9+22/J:xx_xx/K:2+5-30

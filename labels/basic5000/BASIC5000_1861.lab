@@ -35,11 +35,11 @@
 23000000 23500000 e^t-e+k=a/A:0+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-0/F:6_4#0_xx@5_1|16_6/G:4_3%0_xx_1/H:xx_xx/I:5-21@1+2&1-6|1+25/J:1_4/K:2+6-25
 23500000 24200000 t^e-k+a=r/A:1+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-0/F:6_4#0_xx@5_1|16_6/G:4_3%0_xx_1/H:xx_xx/I:5-21@1+2&1-6|1+25/J:1_4/K:2+6-25
 24200000 24700000 e^k-a+r=a/A:1+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-0/F:6_4#0_xx@5_1|16_6/G:4_3%0_xx_1/H:xx_xx/I:5-21@1+2&1-6|1+25/J:1_4/K:2+6-25
-24700000 25099999 k^a-r+a=h/A:2+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-0/F:6_4#0_xx@5_1|16_6/G:4_3%0_xx_1/H:xx_xx/I:5-21@1+2&1-6|1+25/J:1_4/K:2+6-25
-25099999 25600000 a^r-a+h=i/A:2+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-0/F:6_4#0_xx@5_1|16_6/G:4_3%0_xx_1/H:xx_xx/I:5-21@1+2&1-6|1+25/J:1_4/K:2+6-25
+24700000 25099999 k^a-r+a=pau/A:2+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-0/F:6_4#0_xx@5_1|16_6/G:4_3%0_xx_1/H:xx_xx/I:5-21@1+2&1-6|1+25/J:1_4/K:2+6-25
+25099999 25600000 a^r-a+pau=h/A:2+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:3_1!0_xx-0/F:6_4#0_xx@5_1|16_6/G:4_3%0_xx_1/H:xx_xx/I:5-21@1+2&1-6|1+25/J:1_4/K:2+6-25
 25600000 25900000 r^a-pau+h=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_3%0_xx_1/H:5_21/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_4/K:2+6-25
-25900000 27100000 r^a-h+i=s/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:5_21/I:1-4@2+1&6-1|22+4/J:xx_xx/K:2+6-25
-27100000 27599999 a^h-i+s=a/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:5_21/I:1-4@2+1&6-1|22+4/J:xx_xx/K:2+6-25
+25900000 27100000 a^pau-h+i=s/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:5_21/I:1-4@2+1&6-1|22+4/J:xx_xx/K:2+6-25
+27100000 27599999 pau^h-i+s=a/A:-2+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:5_21/I:1-4@2+1&6-1|22+4/J:xx_xx/K:2+6-25
 27599999 28500000 h^i-s+a=sh/A:-1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:5_21/I:1-4@2+1&6-1|22+4/J:xx_xx/K:2+6-25
 28500000 28800000 i^s-a+sh=i/A:-1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:5_21/I:1-4@2+1&6-1|22+4/J:xx_xx/K:2+6-25
 28800000 30400000 s^a-sh+i=i/A:0+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_4!0_xx-1/F:4_3#0_xx@1_1|1_4/G:xx_xx%xx_xx_xx/H:5_21/I:1-4@2+1&6-1|22+4/J:xx_xx/K:2+6-25

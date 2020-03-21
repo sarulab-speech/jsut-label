@@ -15,11 +15,11 @@
 11500000 12100000 a^k-a+k=u/A:-2+8+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:6_3%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+31/J:3_21/K:2+4-31
 12100000 12800000 k^a-k+u=g/A:-1+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:6_3%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+31/J:3_21/K:2+4-31
 12800000 13400000 a^k-u+g=a/A:-1+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:6_3%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+31/J:3_21/K:2+4-31
-13400000 14000000 k^u-g+a=n/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:6_3%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+31/J:3_21/K:2+4-31
-14000000 15300000 u^g-a+n=i/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:6_3%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+31/J:3_21/K:2+4-31
+13400000 14000000 k^u-g+a=pau/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:6_3%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+31/J:3_21/K:2+4-31
+14000000 15300000 u^g-a+pau=n/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:6_3%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+31/J:3_21/K:2+4-31
 15300000 16800000 g^a-pau+n=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_3%0_xx_1/H:1_10/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_21/K:2+4-31
-16800000 17200000 g^a-n+i=cl/A:-2+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:6_3#0_xx@1_3|1_21/G:7_6%0_xx_0/H:1_10/I:3-21@2+1&2-3|11+21/J:xx_xx/K:2+4-31
-17200000 17700000 a^n-i+cl=p/A:-2+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:6_3#0_xx@1_3|1_21/G:7_6%0_xx_0/H:1_10/I:3-21@2+1&2-3|11+21/J:xx_xx/K:2+4-31
+16800000 17200000 a^pau-n+i=cl/A:-2+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:6_3#0_xx@1_3|1_21/G:7_6%0_xx_0/H:1_10/I:3-21@2+1&2-3|11+21/J:xx_xx/K:2+4-31
+17200000 17700000 pau^n-i+cl=p/A:-2+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:6_3#0_xx@1_3|1_21/G:7_6%0_xx_0/H:1_10/I:3-21@2+1&2-3|11+21/J:xx_xx/K:2+4-31
 17700000 18400000 n^i-cl+p=o/A:-1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:6_3#0_xx@1_3|1_21/G:7_6%0_xx_0/H:1_10/I:3-21@2+1&2-3|11+21/J:xx_xx/K:2+4-31
 18400000 19500000 i^cl-p+o=N/A:0+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:6_3#0_xx@1_3|1_21/G:7_6%0_xx_0/H:1_10/I:3-21@2+1&2-3|11+21/J:xx_xx/K:2+4-31
 19500000 20000000 cl^p-o+N=d/A:0+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:6_3#0_xx@1_3|1_21/G:7_6%0_xx_0/H:1_10/I:3-21@2+1&2-3|11+21/J:xx_xx/K:2+4-31

@@ -12,11 +12,11 @@
 9800000 10100000 a^ts-u+k=u/A:1+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+20/J:3_12/K:2+4-20
 10100000 10700000 ts^u-k+u=t/A:2+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+20/J:3_12/K:2+4-20
 10700000 11100000 u^k-u+t=e/A:2+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+20/J:3_12/K:2+4-20
-11100000 11700000 k^u-t+e=k/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+20/J:3_12/K:2+4-20
-11700000 13200000 u^t-e+k=a/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+20/J:3_12/K:2+4-20
+11100000 11700000 k^u-t+e=pau/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+20/J:3_12/K:2+4-20
+11700000 13200000 u^t-e+pau=k/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:4_1%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+20/J:3_12/K:2+4-20
 13200000 13899999 t^e-pau+k=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_1/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_12/K:2+4-20
-13899999 14900000 t^e-k+a=r/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:4_1#0_xx@1_3|1_12/G:4_2%0_xx_0/H:1_8/I:3-12@2+1&2-3|9+12/J:xx_xx/K:2+4-20
-14900000 15300000 e^k-a+r=e/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:4_1#0_xx@1_3|1_12/G:4_2%0_xx_0/H:1_8/I:3-12@2+1&2-3|9+12/J:xx_xx/K:2+4-20
+13899999 14900000 e^pau-k+a=r/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:4_1#0_xx@1_3|1_12/G:4_2%0_xx_0/H:1_8/I:3-12@2+1&2-3|9+12/J:xx_xx/K:2+4-20
+14900000 15300000 pau^k-a+r=e/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:4_1#0_xx@1_3|1_12/G:4_2%0_xx_0/H:1_8/I:3-12@2+1&2-3|9+12/J:xx_xx/K:2+4-20
 15300000 15800000 k^a-r+e=r/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:4_1#0_xx@1_3|1_12/G:4_2%0_xx_0/H:1_8/I:3-12@2+1&2-3|9+12/J:xx_xx/K:2+4-20
 15800000 16100000 a^r-e+r=a/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:4_1#0_xx@1_3|1_12/G:4_2%0_xx_0/H:1_8/I:3-12@2+1&2-3|9+12/J:xx_xx/K:2+4-20
 16100000 16800000 r^e-r+a=w/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:4_1#0_xx@1_3|1_12/G:4_2%0_xx_0/H:1_8/I:3-12@2+1&2-3|9+12/J:xx_xx/K:2+4-20

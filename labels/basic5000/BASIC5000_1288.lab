@@ -1,10 +1,10 @@
 0 3000000 xx^xx-sil+i=y/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_2%0_xx_0/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:2+7-37
 3000000 3500000 xx^sil-i+y=a/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:6_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-7|1+37/J:6_35/K:2+7-37
-3500000 4200000 sil^i-y+a=t/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:6_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-7|1+37/J:6_35/K:2+7-37
-4200000 5699999 i^y-a+t=o/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:6_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-7|1+37/J:6_35/K:2+7-37
+3500000 4200000 sil^i-y+a=pau/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:6_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-7|1+37/J:6_35/K:2+7-37
+4200000 5699999 i^y-a+pau=t/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:6_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-7|1+37/J:6_35/K:2+7-37
 5699999 8500000 y^a-pau+t=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_1%0_xx_1/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:6_35/K:2+7-37
-8500000 9300000 y^a-t+o=m/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:6_1#0_xx@1_6|1_35/G:5_1%0_xx_0/H:1_2/I:6-35@2+1&2-6|3+35/J:xx_xx/K:2+7-37
-9300000 9600000 a^t-o+m=u/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:6_1#0_xx@1_6|1_35/G:5_1%0_xx_0/H:1_2/I:6-35@2+1&2-6|3+35/J:xx_xx/K:2+7-37
+8500000 9300000 a^pau-t+o=m/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:6_1#0_xx@1_6|1_35/G:5_1%0_xx_0/H:1_2/I:6-35@2+1&2-6|3+35/J:xx_xx/K:2+7-37
+9300000 9600000 pau^t-o+m=u/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:6_1#0_xx@1_6|1_35/G:5_1%0_xx_0/H:1_2/I:6-35@2+1&2-6|3+35/J:xx_xx/K:2+7-37
 9600000 10500000 t^o-m+u=n/A:1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:6_1#0_xx@1_6|1_35/G:5_1%0_xx_0/H:1_2/I:6-35@2+1&2-6|3+35/J:xx_xx/K:2+7-37
 10500000 11100000 o^m-u+n=o/A:1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:6_1#0_xx@1_6|1_35/G:5_1%0_xx_0/H:1_2/I:6-35@2+1&2-6|3+35/J:xx_xx/K:2+7-37
 11100000 11500000 m^u-n+o=h/A:2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:6_1#0_xx@1_6|1_35/G:5_1%0_xx_0/H:1_2/I:6-35@2+1&2-6|3+35/J:xx_xx/K:2+7-37

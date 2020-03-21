@@ -1,11 +1,11 @@
 0 2300000 xx^xx-sil+h=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_0/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:2+4-19
 2300000 3700000 xx^sil-h+i=g/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:5_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-4|1+19/J:3_17/K:2+4-19
 3700000 4200000 sil^h-i+g=a/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:5_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-4|1+19/J:3_17/K:2+4-19
-4200000 4700000 h^i-g+a=m/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:5_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-4|1+19/J:3_17/K:2+4-19
-4700000 6400000 i^g-a+m=e/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:5_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-4|1+19/J:3_17/K:2+4-19
+4200000 4700000 h^i-g+a=pau/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:5_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-4|1+19/J:3_17/K:2+4-19
+4700000 6400000 i^g-a+pau=m/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:5_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-4|1+19/J:3_17/K:2+4-19
 6400000 7600000 g^a-pau+m=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_1/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_17/K:2+4-19
-7600000 8100000 g^a-m+e=r/A:0+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:5_1#0_xx@1_3|1_17/G:4_1%0_xx_0/H:1_2/I:3-17@2+1&2-3|3+17/J:xx_xx/K:2+4-19
-8100000 8600000 a^m-e+r=a/A:0+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:5_1#0_xx@1_3|1_17/G:4_1%0_xx_0/H:1_2/I:3-17@2+1&2-3|3+17/J:xx_xx/K:2+4-19
+7600000 8100000 a^pau-m+e=r/A:0+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:5_1#0_xx@1_3|1_17/G:4_1%0_xx_0/H:1_2/I:3-17@2+1&2-3|3+17/J:xx_xx/K:2+4-19
+8100000 8600000 pau^m-e+r=a/A:0+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:5_1#0_xx@1_3|1_17/G:4_1%0_xx_0/H:1_2/I:3-17@2+1&2-3|3+17/J:xx_xx/K:2+4-19
 8600000 9100000 m^e-r+a=m/A:1+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:5_1#0_xx@1_3|1_17/G:4_1%0_xx_0/H:1_2/I:3-17@2+1&2-3|3+17/J:xx_xx/K:2+4-19
 9100000 9700000 e^r-a+m=e/A:1+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:5_1#0_xx@1_3|1_17/G:4_1%0_xx_0/H:1_2/I:3-17@2+1&2-3|3+17/J:xx_xx/K:2+4-19
 9700000 10400000 r^a-m+e=r/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:5_1#0_xx@1_3|1_17/G:4_1%0_xx_0/H:1_2/I:3-17@2+1&2-3|3+17/J:xx_xx/K:2+4-19

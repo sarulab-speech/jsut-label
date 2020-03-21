@@ -16,11 +16,11 @@
 18700000 19400000 k^a-cl+t=a/A:3+8+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:8_6%0_xx_1/H:xx_xx/I:1-10@1+2&1-2|1+18/J:1_8/K:2+2-18
 19400000 19900000 a^cl-t+a=g/A:4+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:8_6%0_xx_1/H:xx_xx/I:1-10@1+2&1-2|1+18/J:1_8/K:2+2-18
 19900000 20400000 cl^t-a+g=a/A:4+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:8_6%0_xx_1/H:xx_xx/I:1-10@1+2&1-2|1+18/J:1_8/K:2+2-18
-20400000 21100000 t^a-g+a=o/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:8_6%0_xx_1/H:xx_xx/I:1-10@1+2&1-2|1+18/J:1_8/K:2+2-18
-21100000 22300000 a^g-a+o=m/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:8_6%0_xx_1/H:xx_xx/I:1-10@1+2&1-2|1+18/J:1_8/K:2+2-18
+20400000 21100000 t^a-g+a=pau/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:8_6%0_xx_1/H:xx_xx/I:1-10@1+2&1-2|1+18/J:1_8/K:2+2-18
+21100000 22300000 a^g-a+pau=o/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:8_6%0_xx_1/H:xx_xx/I:1-10@1+2&1-2|1+18/J:1_8/K:2+2-18
 22300000 23100000 g^a-pau+o=m/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:8_6%0_xx_1/H:1_10/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_8/K:2+2-18
-23100000 23700000 g^a-o+m=o/A:-5+1+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:8_6#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:1_10/I:1-8@2+1&2-1|11+8/J:xx_xx/K:2+2-18
-23700000 24500000 a^o-m+o=i/A:-4+2+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:8_6#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:1_10/I:1-8@2+1&2-1|11+8/J:xx_xx/K:2+2-18
+23100000 23700000 a^pau-o+m=o/A:-5+1+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:8_6#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:1_10/I:1-8@2+1&2-1|11+8/J:xx_xx/K:2+2-18
+23700000 24500000 pau^o-m+o=i/A:-4+2+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:8_6#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:1_10/I:1-8@2+1&2-1|11+8/J:xx_xx/K:2+2-18
 24500000 25299999 o^m-o+i=t/A:-4+2+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:8_6#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:1_10/I:1-8@2+1&2-1|11+8/J:xx_xx/K:2+2-18
 25299999 25700000 m^o-i+t=o/A:-3+3+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:8_6#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:1_10/I:1-8@2+1&2-1|11+8/J:xx_xx/K:2+2-18
 25700000 26200000 o^i-t+o=d/A:-2+4+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:8_6#0_xx@1_1|1_8/G:xx_xx%xx_xx_xx/H:1_10/I:1-8@2+1&2-1|11+8/J:xx_xx/K:2+2-18

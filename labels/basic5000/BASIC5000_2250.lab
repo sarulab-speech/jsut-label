@@ -11,11 +11,11 @@
 9100000 9500000 g^a-a+r=u/A:0+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+22/J:3_14/K:2+4-22
 9500000 10000000 a^a-r+u=t/A:1+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+22/J:3_14/K:2+4-22
 10000000 10700000 a^r-u+t=o/A:1+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+22/J:3_14/K:2+4-22
-10700000 11399999 r^u-t+o=y/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+22/J:3_14/K:2+4-22
-11399999 12600000 u^t-o+y=o/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+22/J:3_14/K:2+4-22
+10700000 11399999 r^u-t+o=pau/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+22/J:3_14/K:2+4-22
+11399999 12600000 u^t-o+pau=y/A:2+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_6#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+22/J:3_14/K:2+4-22
 12600000 13799999 t^o-pau+y=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_5%0_xx_1/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_14/K:2+4-22
-13799999 14400000 t^o-y+o=k/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:5_5#0_xx@1_3|1_14/G:6_2%0_xx_0/H:1_8/I:3-14@2+1&2-3|9+14/J:xx_xx/K:2+4-22
-14400000 14900000 o^y-o+k=u/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:5_5#0_xx@1_3|1_14/G:6_2%0_xx_0/H:1_8/I:3-14@2+1&2-3|9+14/J:xx_xx/K:2+4-22
+13799999 14400000 o^pau-y+o=k/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:5_5#0_xx@1_3|1_14/G:6_2%0_xx_0/H:1_8/I:3-14@2+1&2-3|9+14/J:xx_xx/K:2+4-22
+14400000 14900000 pau^y-o+k=u/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:5_5#0_xx@1_3|1_14/G:6_2%0_xx_0/H:1_8/I:3-14@2+1&2-3|9+14/J:xx_xx/K:2+4-22
 14900000 15500000 y^o-k+u=j/A:-3+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:5_5#0_xx@1_3|1_14/G:6_2%0_xx_0/H:1_8/I:3-14@2+1&2-3|9+14/J:xx_xx/K:2+4-22
 15500000 16000000 o^k-u+j=i/A:-3+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:5_5#0_xx@1_3|1_14/G:6_2%0_xx_0/H:1_8/I:3-14@2+1&2-3|9+14/J:xx_xx/K:2+4-22
 16000000 16900000 k^u-j+i=ts/A:-2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_6!0_xx-1/F:5_5#0_xx@1_3|1_14/G:6_2%0_xx_0/H:1_8/I:3-14@2+1&2-3|9+14/J:xx_xx/K:2+4-22

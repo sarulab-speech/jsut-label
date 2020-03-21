@@ -5,11 +5,11 @@
 5000000 5600000 i^i-N+z=u/A:2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:10_7%0_xx_1/H:xx_xx/I:1-5@1+2&1-7|1+36/J:6_31/K:2+7-36
 5600000 6400000 i^N-z+u=w/A:3+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:10_7%0_xx_1/H:xx_xx/I:1-5@1+2&1-7|1+36/J:6_31/K:2+7-36
 6400000 6700000 N^z-u+w=a/A:3+4+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:10_7%0_xx_1/H:xx_xx/I:1-5@1+2&1-7|1+36/J:6_31/K:2+7-36
-6700000 7700000 z^u-w+a=s/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:10_7%0_xx_1/H:xx_xx/I:1-5@1+2&1-7|1+36/J:6_31/K:2+7-36
-7700000 8700000 u^w-a+s=e/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:10_7%0_xx_1/H:xx_xx/I:1-5@1+2&1-7|1+36/J:6_31/K:2+7-36
+6700000 7700000 z^u-w+a=pau/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:10_7%0_xx_1/H:xx_xx/I:1-5@1+2&1-7|1+36/J:6_31/K:2+7-36
+7700000 8700000 u^w-a+pau=s/A:4+5+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_1|1_5/G:10_7%0_xx_1/H:xx_xx/I:1-5@1+2&1-7|1+36/J:6_31/K:2+7-36
 8700000 9000000 w^a-pau+s=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:10_7%0_xx_1/H:1_5/I:xx-xx@xx+xx&xx-xx|xx+xx/J:6_31/K:2+7-36
-9000000 10000000 w^a-s+e=N/A:-6+1+10/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:10_7#0_xx@1_6|1_31/G:4_1%0_xx_0/H:1_5/I:6-31@2+1&2-6|6+31/J:xx_xx/K:2+7-36
-10000000 10800000 a^s-e+N=t/A:-6+1+10/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:10_7#0_xx@1_6|1_31/G:4_1%0_xx_0/H:1_5/I:6-31@2+1&2-6|6+31/J:xx_xx/K:2+7-36
+9000000 10000000 a^pau-s+e=N/A:-6+1+10/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:10_7#0_xx@1_6|1_31/G:4_1%0_xx_0/H:1_5/I:6-31@2+1&2-6|6+31/J:xx_xx/K:2+7-36
+10000000 10800000 pau^s-e+N=t/A:-6+1+10/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:10_7#0_xx@1_6|1_31/G:4_1%0_xx_0/H:1_5/I:6-31@2+1&2-6|6+31/J:xx_xx/K:2+7-36
 10800000 11500000 s^e-N+t=a/A:-5+2+9/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:10_7#0_xx@1_6|1_31/G:4_1%0_xx_0/H:1_5/I:6-31@2+1&2-6|6+31/J:xx_xx/K:2+7-36
 11500000 11900000 e^N-t+a=k/A:-4+3+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:10_7#0_xx@1_6|1_31/G:4_1%0_xx_0/H:1_5/I:6-31@2+1&2-6|6+31/J:xx_xx/K:2+7-36
 11900000 12500000 N^t-a+k=u/A:-4+3+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:5_1!0_xx-1/F:10_7#0_xx@1_6|1_31/G:4_1%0_xx_0/H:1_5/I:6-31@2+1&2-6|6+31/J:xx_xx/K:2+7-36

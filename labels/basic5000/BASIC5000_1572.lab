@@ -13,11 +13,11 @@
 9400000 9700000 a^k-a+n=i/A:1+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:9_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-10|1+42/J:9_34/K:2+10-42
 9700000 10300000 k^a-n+i=w/A:2+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:9_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-10|1+42/J:9_34/K:2+10-42
 10300000 10700000 a^n-i+w=a/A:2+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:9_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-10|1+42/J:9_34/K:2+10-42
-10700000 12000000 n^i-w+a=a/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:9_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-10|1+42/J:9_34/K:2+10-42
-12000000 12600000 i^w-a+a=m/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:9_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-10|1+42/J:9_34/K:2+10-42
+10700000 12000000 n^i-w+a=pau/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:9_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-10|1+42/J:9_34/K:2+10-42
+12000000 12600000 i^w-a+pau=a/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:9_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-10|1+42/J:9_34/K:2+10-42
 12600000 14600000 w^a-pau+a=m/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:9_5%0_xx_1/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:9_34/K:2+10-42
-14600000 14900000 w^a-a+m=e/A:-4+1+9/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:9_5#0_xx@1_9|1_34/G:2_2%0_xx_0/H:1_8/I:9-34@2+1&2-9|9+34/J:xx_xx/K:2+10-42
-14900000 16100000 a^a-m+e=r/A:-3+2+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:9_5#0_xx@1_9|1_34/G:2_2%0_xx_0/H:1_8/I:9-34@2+1&2-9|9+34/J:xx_xx/K:2+10-42
+14600000 14900000 a^pau-a+m=e/A:-4+1+9/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:9_5#0_xx@1_9|1_34/G:2_2%0_xx_0/H:1_8/I:9-34@2+1&2-9|9+34/J:xx_xx/K:2+10-42
+14900000 16100000 pau^a-m+e=r/A:-3+2+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:9_5#0_xx@1_9|1_34/G:2_2%0_xx_0/H:1_8/I:9-34@2+1&2-9|9+34/J:xx_xx/K:2+10-42
 16100000 16500000 a^m-e+r=i/A:-3+2+8/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:9_5#0_xx@1_9|1_34/G:2_2%0_xx_0/H:1_8/I:9-34@2+1&2-9|9+34/J:xx_xx/K:2+10-42
 16500000 16900000 m^e-r+i=k/A:-2+3+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:9_5#0_xx@1_9|1_34/G:2_2%0_xx_0/H:1_8/I:9-34@2+1&2-9|9+34/J:xx_xx/K:2+10-42
 16900000 17500000 e^r-i+k=a/A:-2+3+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:9_5#0_xx@1_9|1_34/G:2_2%0_xx_0/H:1_8/I:9-34@2+1&2-9|9+34/J:xx_xx/K:2+10-42

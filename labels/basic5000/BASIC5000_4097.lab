@@ -1,11 +1,11 @@
 0 2800000 xx^xx-sil+m=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_2%0_xx_0/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:2+8-40
 2800000 3400000 xx^sil-m+a=t/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:7_4%0_xx_1/H:xx_xx/I:1-2@1+2&1-8|1+40/J:7_38/K:2+8-40
 3400000 3900000 sil^m-a+t=a/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:7_4%0_xx_1/H:xx_xx/I:1-2@1+2&1-8|1+40/J:7_38/K:2+8-40
-3900000 4700000 m^a-t+a=t/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:7_4%0_xx_1/H:xx_xx/I:1-2@1+2&1-8|1+40/J:7_38/K:2+8-40
-4700000 6100000 a^t-a+t=e/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:7_4%0_xx_1/H:xx_xx/I:1-2@1+2&1-8|1+40/J:7_38/K:2+8-40
+3900000 4700000 m^a-t+a=pau/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:7_4%0_xx_1/H:xx_xx/I:1-2@1+2&1-8|1+40/J:7_38/K:2+8-40
+4700000 6100000 a^t-a+pau=t/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:7_4%0_xx_1/H:xx_xx/I:1-2@1+2&1-8|1+40/J:7_38/K:2+8-40
 6100000 7400000 t^a-pau+t=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_4%0_xx_1/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:7_38/K:2+8-40
-7400000 7900000 t^a-t+e=k/A:-3+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:7_4#0_xx@1_7|1_38/G:8_5%0_xx_0/H:1_2/I:7-38@2+1&2-7|3+38/J:xx_xx/K:2+8-40
-7900000 8700000 a^t-e+k=i/A:-3+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:7_4#0_xx@1_7|1_38/G:8_5%0_xx_0/H:1_2/I:7-38@2+1&2-7|3+38/J:xx_xx/K:2+8-40
+7400000 7900000 a^pau-t+e=k/A:-3+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:7_4#0_xx@1_7|1_38/G:8_5%0_xx_0/H:1_2/I:7-38@2+1&2-7|3+38/J:xx_xx/K:2+8-40
+7900000 8700000 pau^t-e+k=i/A:-3+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:7_4#0_xx@1_7|1_38/G:8_5%0_xx_0/H:1_2/I:7-38@2+1&2-7|3+38/J:xx_xx/K:2+8-40
 8700000 9500000 t^e-k+i=n/A:-2+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:7_4#0_xx@1_7|1_38/G:8_5%0_xx_0/H:1_2/I:7-38@2+1&2-7|3+38/J:xx_xx/K:2+8-40
 9500000 9800000 e^k-i+n=o/A:-2+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:7_4#0_xx@1_7|1_38/G:8_5%0_xx_0/H:1_2/I:7-38@2+1&2-7|3+38/J:xx_xx/K:2+8-40
 9800000 10300000 k^i-n+o=ry/A:-1+3+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:7_4#0_xx@1_7|1_38/G:8_5%0_xx_0/H:1_2/I:7-38@2+1&2-7|3+38/J:xx_xx/K:2+8-40

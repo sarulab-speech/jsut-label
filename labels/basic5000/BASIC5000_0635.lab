@@ -12,11 +12,11 @@
 9900000 10200000 a^k-u+sh=a/A:1+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+26/J:3_18/K:2+4-26
 10200000 11100000 k^u-sh+a=w/A:2+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+26/J:3_18/K:2+4-26
 11100000 11800000 u^sh-a+w=a/A:2+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+26/J:3_18/K:2+4-26
-11800000 12500000 sh^a-w+a=s/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+26/J:3_18/K:2+4-26
-12500000 13500000 a^w-a+s=o/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+26/J:3_18/K:2+4-26
+11800000 12500000 sh^a-w+a=pau/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+26/J:3_18/K:2+4-26
+12500000 13500000 a^w-a+pau=s/A:3+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:8_5#0_xx@1_1|1_8/G:5_5%0_xx_1/H:xx_xx/I:1-8@1+2&1-4|1+26/J:3_18/K:2+4-26
 13500000 14400000 w^a-pau+s=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_5%0_xx_1/H:1_8/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_18/K:2+4-26
-14400000 15600000 w^a-s+o=N/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:5_5#0_xx@1_3|1_18/G:6_5%0_xx_0/H:1_8/I:3-18@2+1&2-3|9+18/J:xx_xx/K:2+4-26
-15600000 16600000 a^s-o+N=sh/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:5_5#0_xx@1_3|1_18/G:6_5%0_xx_0/H:1_8/I:3-18@2+1&2-3|9+18/J:xx_xx/K:2+4-26
+14400000 15600000 a^pau-s+o=N/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:5_5#0_xx@1_3|1_18/G:6_5%0_xx_0/H:1_8/I:3-18@2+1&2-3|9+18/J:xx_xx/K:2+4-26
+15600000 16600000 pau^s-o+N=sh/A:-4+1+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:5_5#0_xx@1_3|1_18/G:6_5%0_xx_0/H:1_8/I:3-18@2+1&2-3|9+18/J:xx_xx/K:2+4-26
 16600000 16900000 s^o-N+sh=i/A:-3+2+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:5_5#0_xx@1_3|1_18/G:6_5%0_xx_0/H:1_8/I:3-18@2+1&2-3|9+18/J:xx_xx/K:2+4-26
 16900000 17700000 o^N-sh+i=ts/A:-2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:5_5#0_xx@1_3|1_18/G:6_5%0_xx_0/H:1_8/I:3-18@2+1&2-3|9+18/J:xx_xx/K:2+4-26
 17700000 18000000 N^sh-i+ts=u/A:-2+3+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_5!0_xx-1/F:5_5#0_xx@1_3|1_18/G:6_5%0_xx_0/H:1_8/I:3-18@2+1&2-3|9+18/J:xx_xx/K:2+4-26

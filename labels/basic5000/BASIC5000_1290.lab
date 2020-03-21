@@ -15,11 +15,11 @@
 12100000 13200000 ch^i-o+sh=i/A:-2+8+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-7|1+36/J:6_26/K:2+7-36
 13200000 14100000 i^o-sh+i=t/A:-1+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-7|1+36/J:6_26/K:2+7-36
 14100000 14400000 o^sh-i+t=e/A:-1+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-7|1+36/J:6_26/K:2+7-36
-14400000 14900000 sh^i-t+e=k/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-7|1+36/J:6_26/K:2+7-36
-14900000 16299999 i^t-e+k=a/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-7|1+36/J:6_26/K:2+7-36
+14400000 14900000 sh^i-t+e=pau/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-7|1+36/J:6_26/K:2+7-36
+14900000 16299999 i^t-e+pau=k/A:0+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_10#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-7|1+36/J:6_26/K:2+7-36
 16299999 16600000 t^e-pau+k=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_1/H:1_10/I:xx-xx@xx+xx&xx-xx|xx+xx/J:6_26/K:2+7-36
-16600000 18100000 t^e-k+a=r/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:4_1#0_xx@1_6|1_26/G:9_5%0_xx_0/H:1_10/I:6-26@2+1&2-6|11+26/J:xx_xx/K:2+7-36
-18100000 18600000 e^k-a+r=e/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:4_1#0_xx@1_6|1_26/G:9_5%0_xx_0/H:1_10/I:6-26@2+1&2-6|11+26/J:xx_xx/K:2+7-36
+16600000 18100000 e^pau-k+a=r/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:4_1#0_xx@1_6|1_26/G:9_5%0_xx_0/H:1_10/I:6-26@2+1&2-6|11+26/J:xx_xx/K:2+7-36
+18100000 18600000 pau^k-a+r=e/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:4_1#0_xx@1_6|1_26/G:9_5%0_xx_0/H:1_10/I:6-26@2+1&2-6|11+26/J:xx_xx/K:2+7-36
 18600000 18900000 k^a-r+e=r/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:4_1#0_xx@1_6|1_26/G:9_5%0_xx_0/H:1_10/I:6-26@2+1&2-6|11+26/J:xx_xx/K:2+7-36
 18900000 19500000 a^r-e+r=a/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:4_1#0_xx@1_6|1_26/G:9_5%0_xx_0/H:1_10/I:6-26@2+1&2-6|11+26/J:xx_xx/K:2+7-36
 19500000 20099999 r^e-r+a=n/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_10!0_xx-1/F:4_1#0_xx@1_6|1_26/G:9_5%0_xx_0/H:1_10/I:6-26@2+1&2-6|11+26/J:xx_xx/K:2+7-36

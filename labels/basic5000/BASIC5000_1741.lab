@@ -10,11 +10,11 @@
 7300000 8100000 k^a-N+n=i/A:2+5+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:2_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+19/J:3_12/K:2+4-19
 8100000 8500000 a^N-n+i=w/A:3+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:2_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+19/J:3_12/K:2+4-19
 8500000 8900000 N^n-i+w=a/A:3+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:2_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+19/J:3_12/K:2+4-19
-8900000 10000000 n^i-w+a=e/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:2_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+19/J:3_12/K:2+4-19
-10000000 10500000 i^w-a+e=g/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:2_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+19/J:3_12/K:2+4-19
+8900000 10000000 n^i-w+a=pau/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:2_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+19/J:3_12/K:2+4-19
+10000000 10500000 i^w-a+pau=e/A:4+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_3#0_xx@1_1|1_7/G:2_1%0_xx_1/H:xx_xx/I:1-7@1+2&1-4|1+19/J:3_12/K:2+4-19
 10500000 12000000 w^a-pau+e=g/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_1/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_12/K:2+4-19
-12000000 12800000 w^a-e+g=a/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:2_1#0_xx@1_3|1_12/G:4_4%0_xx_0/H:1_7/I:3-12@2+1&2-3|8+12/J:xx_xx/K:2+4-19
-12800000 13300000 a^e-g+a=t/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:2_1#0_xx@1_3|1_12/G:4_4%0_xx_0/H:1_7/I:3-12@2+1&2-3|8+12/J:xx_xx/K:2+4-19
+12000000 12800000 a^pau-e+g=a/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:2_1#0_xx@1_3|1_12/G:4_4%0_xx_0/H:1_7/I:3-12@2+1&2-3|8+12/J:xx_xx/K:2+4-19
+12800000 13300000 pau^e-g+a=t/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:2_1#0_xx@1_3|1_12/G:4_4%0_xx_0/H:1_7/I:3-12@2+1&2-3|8+12/J:xx_xx/K:2+4-19
 13300000 14000000 e^g-a+t=a/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-1/F:2_1#0_xx@1_3|1_12/G:4_4%0_xx_0/H:1_7/I:3-12@2+1&2-3|8+12/J:xx_xx/K:2+4-19
 14000000 14700000 g^a-t+a=k/A:-3+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-0/F:4_4#0_xx@2_2|3_10/G:6_2%0_xx_0/H:1_7/I:3-12@2+1&2-3|8+12/J:xx_xx/K:2+4-19
 14700000 15500000 a^t-a+k=u/A:-3+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-0/F:4_4#0_xx@2_2|3_10/G:6_2%0_xx_0/H:1_7/I:3-12@2+1&2-3|8+12/J:xx_xx/K:2+4-19

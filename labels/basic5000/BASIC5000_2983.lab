@@ -10,11 +10,11 @@
 6899999 7800000 r^u-m+a=e/A:0+5+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_5#0_xx@1_1|1_7/G:2_2%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+20/J:4_13/K:2+5-20
 7800000 8900000 u^m-a+e=n/A:0+5+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_5#0_xx@1_1|1_7/G:2_2%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+20/J:4_13/K:2+5-20
 8900000 9200000 m^a-e+n=i/A:1+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_5#0_xx@1_1|1_7/G:2_2%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+20/J:4_13/K:2+5-20
-9200000 9800000 a^e-n+i=s/A:2+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_5#0_xx@1_1|1_7/G:2_2%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+20/J:4_13/K:2+5-20
-9800000 10700000 e^n-i+s=o/A:2+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_5#0_xx@1_1|1_7/G:2_2%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+20/J:4_13/K:2+5-20
+9200000 9800000 a^e-n+i=pau/A:2+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_5#0_xx@1_1|1_7/G:2_2%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+20/J:4_13/K:2+5-20
+9800000 10700000 e^n-i+pau=s/A:2+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:7_5#0_xx@1_1|1_7/G:2_2%0_xx_1/H:xx_xx/I:1-7@1+2&1-5|1+20/J:4_13/K:2+5-20
 10700000 11299999 n^i-pau+s=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_2%0_xx_1/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_13/K:2+5-20
-11299999 12500000 n^i-s+o=n/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_5!0_xx-1/F:2_2#0_xx@1_4|1_13/G:3_2%0_xx_0/H:1_7/I:4-13@2+1&2-4|8+13/J:xx_xx/K:2+5-20
-12500000 12800000 i^s-o+n=o/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_5!0_xx-1/F:2_2#0_xx@1_4|1_13/G:3_2%0_xx_0/H:1_7/I:4-13@2+1&2-4|8+13/J:xx_xx/K:2+5-20
+11299999 12500000 i^pau-s+o=n/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_5!0_xx-1/F:2_2#0_xx@1_4|1_13/G:3_2%0_xx_0/H:1_7/I:4-13@2+1&2-4|8+13/J:xx_xx/K:2+5-20
+12500000 12800000 pau^s-o+n=o/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_5!0_xx-1/F:2_2#0_xx@1_4|1_13/G:3_2%0_xx_0/H:1_7/I:4-13@2+1&2-4|8+13/J:xx_xx/K:2+5-20
 12800000 13400000 s^o-n+o=k/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_5!0_xx-1/F:2_2#0_xx@1_4|1_13/G:3_2%0_xx_0/H:1_7/I:4-13@2+1&2-4|8+13/J:xx_xx/K:2+5-20
 13400000 14100000 o^n-o+k=o/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_5!0_xx-1/F:2_2#0_xx@1_4|1_13/G:3_2%0_xx_0/H:1_7/I:4-13@2+1&2-4|8+13/J:xx_xx/K:2+5-20
 14100000 14700000 n^o-k+o=t/A:-1+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-0/F:3_2#0_xx@2_3|3_11/G:2_1%0_xx_0/H:1_7/I:4-13@2+1&2-4|8+13/J:xx_xx/K:2+5-20

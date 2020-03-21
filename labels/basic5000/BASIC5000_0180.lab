@@ -16,11 +16,11 @@
 15300000 15600000 cl^t-a+k=e/A:4+9+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:11_5#0_xx@1_1|1_11/G:7_7%0_xx_1/H:xx_xx/I:1-11@1+2&1-2|1+18/J:1_7/K:2+2-18
 15600000 16600000 t^a-k+e=d/A:5+10+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:11_5#0_xx@1_1|1_11/G:7_7%0_xx_1/H:xx_xx/I:1-11@1+2&1-2|1+18/J:1_7/K:2+2-18
 16600000 17100000 a^k-e+d=o/A:5+10+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:11_5#0_xx@1_1|1_11/G:7_7%0_xx_1/H:xx_xx/I:1-11@1+2&1-2|1+18/J:1_7/K:2+2-18
-17100000 17600000 k^e-d+o=sh/A:6+11+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:11_5#0_xx@1_1|1_11/G:7_7%0_xx_1/H:xx_xx/I:1-11@1+2&1-2|1+18/J:1_7/K:2+2-18
-17600000 18600000 e^d-o+sh=i/A:6+11+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:11_5#0_xx@1_1|1_11/G:7_7%0_xx_1/H:xx_xx/I:1-11@1+2&1-2|1+18/J:1_7/K:2+2-18
+17100000 17600000 k^e-d+o=pau/A:6+11+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:11_5#0_xx@1_1|1_11/G:7_7%0_xx_1/H:xx_xx/I:1-11@1+2&1-2|1+18/J:1_7/K:2+2-18
+17600000 18600000 e^d-o+pau=sh/A:6+11+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:11_5#0_xx@1_1|1_11/G:7_7%0_xx_1/H:xx_xx/I:1-11@1+2&1-2|1+18/J:1_7/K:2+2-18
 18600000 19100000 d^o-pau+sh=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_7%0_xx_1/H:1_11/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_7/K:2+2-18
-19100000 21000000 d^o-sh+i=g/A:-6+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:1_11/I:1-7@2+1&2-1|12+7/J:xx_xx/K:2+2-18
-21000000 21400000 o^sh-i+g=o/A:-6+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:1_11/I:1-7@2+1&2-1|12+7/J:xx_xx/K:2+2-18
+19100000 21000000 o^pau-sh+i=g/A:-6+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:1_11/I:1-7@2+1&2-1|12+7/J:xx_xx/K:2+2-18
+21000000 21400000 pau^sh-i+g=o/A:-6+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:1_11/I:1-7@2+1&2-1|12+7/J:xx_xx/K:2+2-18
 21400000 22000000 sh^i-g+o=t/A:-5+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:1_11/I:1-7@2+1&2-1|12+7/J:xx_xx/K:2+2-18
 22000000 22700000 i^g-o+t=o/A:-5+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:1_11/I:1-7@2+1&2-1|12+7/J:xx_xx/K:2+2-18
 22700000 23300000 g^o-t+o=n/A:-4+3+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:11_5!0_xx-1/F:7_7#0_xx@1_1|1_7/G:xx_xx%xx_xx_xx/H:1_11/I:1-7@2+1&2-1|12+7/J:xx_xx/K:2+2-18

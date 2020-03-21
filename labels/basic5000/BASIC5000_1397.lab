@@ -21,11 +21,11 @@
 17000000 18000000 o^cl-t+a=cl/A:3+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-0/F:8_3#0_xx@2_1|8_8/G:3_1%0_xx_1/H:xx_xx/I:2-15@1+2&1-4|1+24/J:2_9/K:2+4-24
 18000000 18700000 cl^t-a+cl=t/A:3+6+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-0/F:8_3#0_xx@2_1|8_8/G:3_1%0_xx_1/H:xx_xx/I:2-15@1+2&1-4|1+24/J:2_9/K:2+4-24
 18700000 19600000 t^a-cl+t=e/A:4+7+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-0/F:8_3#0_xx@2_1|8_8/G:3_1%0_xx_1/H:xx_xx/I:2-15@1+2&1-4|1+24/J:2_9/K:2+4-24
-19600000 20600000 a^cl-t+e=s/A:5+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-0/F:8_3#0_xx@2_1|8_8/G:3_1%0_xx_1/H:xx_xx/I:2-15@1+2&1-4|1+24/J:2_9/K:2+4-24
-20600000 22000000 cl^t-e+s=o/A:5+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-0/F:8_3#0_xx@2_1|8_8/G:3_1%0_xx_1/H:xx_xx/I:2-15@1+2&1-4|1+24/J:2_9/K:2+4-24
+19600000 20600000 a^cl-t+e=pau/A:5+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-0/F:8_3#0_xx@2_1|8_8/G:3_1%0_xx_1/H:xx_xx/I:2-15@1+2&1-4|1+24/J:2_9/K:2+4-24
+20600000 22000000 cl^t-e+pau=s/A:5+8+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_3!0_xx-0/F:8_3#0_xx@2_1|8_8/G:3_1%0_xx_1/H:xx_xx/I:2-15@1+2&1-4|1+24/J:2_9/K:2+4-24
 22000000 23700000 t^e-pau+s=o/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_1/H:2_15/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_9/K:2+4-24
-23700000 25200000 t^e-s+o=o/A:0+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:3_1#0_xx@1_2|1_9/G:6_4%1_xx_0/H:2_15/I:2-9@2+1&3-2|16+9/J:xx_xx/K:2+4-24
-25200000 26600000 e^s-o+o=w/A:0+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:3_1#0_xx@1_2|1_9/G:6_4%1_xx_0/H:2_15/I:2-9@2+1&3-2|16+9/J:xx_xx/K:2+4-24
+23700000 25200000 e^pau-s+o=o/A:0+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:3_1#0_xx@1_2|1_9/G:6_4%1_xx_0/H:2_15/I:2-9@2+1&3-2|16+9/J:xx_xx/K:2+4-24
+25200000 26600000 pau^s-o+o=w/A:0+1+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:3_1#0_xx@1_2|1_9/G:6_4%1_xx_0/H:2_15/I:2-9@2+1&3-2|16+9/J:xx_xx/K:2+4-24
 26600000 26900000 s^o-o+w=a/A:1+2+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:3_1#0_xx@1_2|1_9/G:6_4%1_xx_0/H:2_15/I:2-9@2+1&3-2|16+9/J:xx_xx/K:2+4-24
 26900000 27400000 o^o-w+a=i/A:2+3+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:3_1#0_xx@1_2|1_9/G:6_4%1_xx_0/H:2_15/I:2-9@2+1&3-2|16+9/J:xx_xx/K:2+4-24
 27400000 28200000 o^w-a+i=k/A:2+3+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:8_3!0_xx-1/F:3_1#0_xx@1_2|1_9/G:6_4%1_xx_0/H:2_15/I:2-9@2+1&3-2|16+9/J:xx_xx/K:2+4-24

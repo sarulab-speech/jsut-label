@@ -7,11 +7,11 @@
 5200000 6600000 e^e-sh+i=a/A:2+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_2#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+26/J:3_20/K:2+4-26
 6600000 6899999 e^sh-i+a=w/A:2+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_2#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+26/J:3_20/K:2+4-26
 6899999 8199999 sh^i-a+w=a/A:3+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_2#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+26/J:3_20/K:2+4-26
-8199999 9100000 i^a-w+a=s/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_2#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+26/J:3_20/K:2+4-26
-9100000 9500000 a^w-a+s=e/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_2#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+26/J:3_20/K:2+4-26
+8199999 9100000 i^a-w+a=pau/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_2#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+26/J:3_20/K:2+4-26
+9100000 9500000 a^w-a+pau=s/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_2#0_xx@1_1|1_6/G:6_1%0_xx_1/H:xx_xx/I:1-6@1+2&1-4|1+26/J:3_20/K:2+4-26
 9500000 10200000 w^a-pau+s=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_1%0_xx_1/H:1_6/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_20/K:2+4-26
-10200000 11299999 w^a-s+e=N/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_1#0_xx@1_3|1_20/G:8_5%0_xx_0/H:1_6/I:3-20@2+1&2-3|7+20/J:xx_xx/K:2+4-26
-11299999 11900000 a^s-e+N=ky/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_1#0_xx@1_3|1_20/G:8_5%0_xx_0/H:1_6/I:3-20@2+1&2-3|7+20/J:xx_xx/K:2+4-26
+10200000 11299999 a^pau-s+e=N/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_1#0_xx@1_3|1_20/G:8_5%0_xx_0/H:1_6/I:3-20@2+1&2-3|7+20/J:xx_xx/K:2+4-26
+11299999 11900000 pau^s-e+N=ky/A:0+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_1#0_xx@1_3|1_20/G:8_5%0_xx_0/H:1_6/I:3-20@2+1&2-3|7+20/J:xx_xx/K:2+4-26
 11900000 12700000 s^e-N+ky=u/A:1+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_1#0_xx@1_3|1_20/G:8_5%0_xx_0/H:1_6/I:3-20@2+1&2-3|7+20/J:xx_xx/K:2+4-26
 12700000 13899999 e^N-ky+u=u/A:2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_1#0_xx@1_3|1_20/G:8_5%0_xx_0/H:1_6/I:3-20@2+1&2-3|7+20/J:xx_xx/K:2+4-26
 13899999 14200000 N^ky-u+u=hy/A:2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_1#0_xx@1_3|1_20/G:8_5%0_xx_0/H:1_6/I:3-20@2+1&2-3|7+20/J:xx_xx/K:2+4-26

@@ -1,11 +1,11 @@
 0 2500000 xx^xx-sil+sh=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_0/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:2+5-24
 2500000 4000000 xx^sil-sh+i=g/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:6_5%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+24/J:4_22/K:2+5-24
 4000000 4400000 sil^sh-i+g=o/A:0+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:6_5%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+24/J:4_22/K:2+5-24
-4400000 5100000 sh^i-g+o=ny/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:6_5%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+24/J:4_22/K:2+5-24
-5100000 6700000 i^g-o+ny=u/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:6_5%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+24/J:4_22/K:2+5-24
+4400000 5100000 sh^i-g+o=pau/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:6_5%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+24/J:4_22/K:2+5-24
+5100000 6700000 i^g-o+pau=ny/A:1+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:6_5%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+24/J:4_22/K:2+5-24
 6700000 7900000 g^o-pau+ny=u/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_5%0_xx_1/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_22/K:2+5-24
-7900000 8900000 g^o-ny+u=u/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:6_5#0_xx@1_4|1_22/G:6_2%0_xx_0/H:1_2/I:4-22@2+1&2-4|3+22/J:xx_xx/K:2+5-24
-8900000 9300000 o^ny-u+u=y/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:6_5#0_xx@1_4|1_22/G:6_2%0_xx_0/H:1_2/I:4-22@2+1&2-4|3+22/J:xx_xx/K:2+5-24
+7900000 8900000 o^pau-ny+u=u/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:6_5#0_xx@1_4|1_22/G:6_2%0_xx_0/H:1_2/I:4-22@2+1&2-4|3+22/J:xx_xx/K:2+5-24
+8900000 9300000 pau^ny-u+u=y/A:-4+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:6_5#0_xx@1_4|1_22/G:6_2%0_xx_0/H:1_2/I:4-22@2+1&2-4|3+22/J:xx_xx/K:2+5-24
 9300000 10000000 ny^u-u+y=o/A:-3+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:6_5#0_xx@1_4|1_22/G:6_2%0_xx_0/H:1_2/I:4-22@2+1&2-4|3+22/J:xx_xx/K:2+5-24
 10000000 11000000 u^u-y+o=o/A:-2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:6_5#0_xx@1_4|1_22/G:6_2%0_xx_0/H:1_2/I:4-22@2+1&2-4|3+22/J:xx_xx/K:2+5-24
 11000000 11600000 u^y-o+o=k/A:-2+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_1!0_xx-1/F:6_5#0_xx@1_4|1_22/G:6_2%0_xx_0/H:1_2/I:4-22@2+1&2-4|3+22/J:xx_xx/K:2+5-24

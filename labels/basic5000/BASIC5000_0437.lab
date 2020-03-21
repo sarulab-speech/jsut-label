@@ -16,11 +16,11 @@
 10700000 11600000 m^a-s+e=N/A:0+8+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_8#0_xx@1_1|1_10/G:7_5%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+30/J:3_20/K:2+4-30
 11600000 12200000 a^s-e+N=g/A:0+8+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_8#0_xx@1_1|1_10/G:7_5%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+30/J:3_20/K:2+4-30
 12200000 13000000 s^e-N+g=a/A:1+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_8#0_xx@1_1|1_10/G:7_5%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+30/J:3_20/K:2+4-30
-13000000 13500000 e^N-g+a=w/A:2+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_8#0_xx@1_1|1_10/G:7_5%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+30/J:3_20/K:2+4-30
-13500000 14700000 N^g-a+w=a/A:2+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_8#0_xx@1_1|1_10/G:7_5%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+30/J:3_20/K:2+4-30
+13000000 13500000 e^N-g+a=pau/A:2+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_8#0_xx@1_1|1_10/G:7_5%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+30/J:3_20/K:2+4-30
+13500000 14700000 N^g-a+pau=w/A:2+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_8#0_xx@1_1|1_10/G:7_5%0_xx_1/H:xx_xx/I:1-10@1+2&1-4|1+30/J:3_20/K:2+4-30
 14700000 16100000 g^a-pau+w=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_5%0_xx_1/H:1_10/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_20/K:2+4-30
-16100000 16399999 g^a-w+a=t/A:-4+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:7_5#0_xx@1_3|1_20/G:5_1%0_xx_0/H:1_10/I:3-20@2+1&2-3|11+20/J:xx_xx/K:2+4-30
-16399999 16800000 a^w-a+t=a/A:-4+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:7_5#0_xx@1_3|1_20/G:5_1%0_xx_0/H:1_10/I:3-20@2+1&2-3|11+20/J:xx_xx/K:2+4-30
+16100000 16399999 a^pau-w+a=t/A:-4+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:7_5#0_xx@1_3|1_20/G:5_1%0_xx_0/H:1_10/I:3-20@2+1&2-3|11+20/J:xx_xx/K:2+4-30
+16399999 16800000 pau^w-a+t=a/A:-4+1+7/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:7_5#0_xx@1_3|1_20/G:5_1%0_xx_0/H:1_10/I:3-20@2+1&2-3|11+20/J:xx_xx/K:2+4-30
 16800000 17500000 w^a-t+a=sh/A:-3+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:7_5#0_xx@1_3|1_20/G:5_1%0_xx_0/H:1_10/I:3-20@2+1&2-3|11+20/J:xx_xx/K:2+4-30
 17500000 17800000 a^t-a+sh=i/A:-3+2+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:7_5#0_xx@1_3|1_20/G:5_1%0_xx_0/H:1_10/I:3-20@2+1&2-3|11+20/J:xx_xx/K:2+4-30
 17800000 19100000 t^a-sh+i=n/A:-2+3+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_8!0_xx-1/F:7_5#0_xx@1_3|1_20/G:5_1%0_xx_0/H:1_10/I:3-20@2+1&2-3|11+20/J:xx_xx/K:2+4-30

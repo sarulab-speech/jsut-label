@@ -1,10 +1,10 @@
 0 2600000 xx^xx-sil+i=ch/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_2%0_xx_0/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:2+5-19
 2600000 4000000 xx^sil-i+ch=i/A:-1+1+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:4_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+19/J:4_17/K:2+5-19
-4000000 5500000 sil^i-ch+i=n/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:4_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+19/J:4_17/K:2+5-19
-5500000 7200000 i^ch-i+n=i/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:4_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+19/J:4_17/K:2+5-19
+4000000 5500000 sil^i-ch+i=pau/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:4_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+19/J:4_17/K:2+5-19
+5500000 7200000 i^ch-i+pau=n/A:0+2+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:2_2#0_xx@1_1|1_2/G:4_1%0_xx_1/H:xx_xx/I:1-2@1+2&1-5|1+19/J:4_17/K:2+5-19
 7200000 7500000 ch^i-pau+n=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_1/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_17/K:2+5-19
-7500000 9200000 ch^i-n+i=n/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:4_1#0_xx@1_4|1_17/G:4_1%0_xx_0/H:1_2/I:4-17@2+1&2-4|3+17/J:xx_xx/K:2+5-19
-9200000 9800000 i^n-i+n=e/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:4_1#0_xx@1_4|1_17/G:4_1%0_xx_0/H:1_2/I:4-17@2+1&2-4|3+17/J:xx_xx/K:2+5-19
+7500000 9200000 i^pau-n+i=n/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:4_1#0_xx@1_4|1_17/G:4_1%0_xx_0/H:1_2/I:4-17@2+1&2-4|3+17/J:xx_xx/K:2+5-19
+9200000 9800000 pau^n-i+n=e/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:4_1#0_xx@1_4|1_17/G:4_1%0_xx_0/H:1_2/I:4-17@2+1&2-4|3+17/J:xx_xx/K:2+5-19
 9800000 10100000 n^i-n+e=N/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:4_1#0_xx@1_4|1_17/G:4_1%0_xx_0/H:1_2/I:4-17@2+1&2-4|3+17/J:xx_xx/K:2+5-19
 10100000 11100000 i^n-e+N=d/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:4_1#0_xx@1_4|1_17/G:4_1%0_xx_0/H:1_2/I:4-17@2+1&2-4|3+17/J:xx_xx/K:2+5-19
 11100000 11900000 n^e-N+d=e/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:2_2!0_xx-1/F:4_1#0_xx@1_4|1_17/G:4_1%0_xx_0/H:1_2/I:4-17@2+1&2-4|3+17/J:xx_xx/K:2+5-19

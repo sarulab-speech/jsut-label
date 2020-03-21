@@ -23,11 +23,11 @@
 16900000 17200000 o^t-o+sh=i/A:2+4+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:6_2#0_xx@3_1|9_6/G:6_6%0_xx_1/H:xx_xx/I:3-14@1+2&1-4|1+20/J:1_6/K:2+4-20
 17200000 18200000 t^o-sh+i=t/A:3+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:6_2#0_xx@3_1|9_6/G:6_6%0_xx_1/H:xx_xx/I:3-14@1+2&1-4|1+20/J:1_6/K:2+4-20
 18200000 18500000 o^sh-i+t=e/A:3+5+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:6_2#0_xx@3_1|9_6/G:6_6%0_xx_1/H:xx_xx/I:3-14@1+2&1-4|1+20/J:1_6/K:2+4-20
-18500000 19000000 sh^i-t+e=sh/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:6_2#0_xx@3_1|9_6/G:6_6%0_xx_1/H:xx_xx/I:3-14@1+2&1-4|1+20/J:1_6/K:2+4-20
-19000000 19800000 i^t-e+sh=i/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:6_2#0_xx@3_1|9_6/G:6_6%0_xx_1/H:xx_xx/I:3-14@1+2&1-4|1+20/J:1_6/K:2+4-20
+18500000 19000000 sh^i-t+e=pau/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:6_2#0_xx@3_1|9_6/G:6_6%0_xx_1/H:xx_xx/I:3-14@1+2&1-4|1+20/J:1_6/K:2+4-20
+19000000 19800000 i^t-e+pau=sh/A:4+6+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:6_2#0_xx@3_1|9_6/G:6_6%0_xx_1/H:xx_xx/I:3-14@1+2&1-4|1+20/J:1_6/K:2+4-20
 19800000 20099999 t^e-pau+sh=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_6%0_xx_1/H:3_14/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_6/K:2+4-20
-20099999 21400000 t^e-sh+i=cl/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_14/I:1-6@2+1&4-1|15+6/J:xx_xx/K:2+4-20
-21400000 21900000 e^sh-i+cl=p/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_14/I:1-6@2+1&4-1|15+6/J:xx_xx/K:2+4-20
+20099999 21400000 e^pau-sh+i=cl/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_14/I:1-6@2+1&4-1|15+6/J:xx_xx/K:2+4-20
+21400000 21900000 pau^sh-i+cl=p/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_14/I:1-6@2+1&4-1|15+6/J:xx_xx/K:2+4-20
 21900000 22300000 sh^i-cl+p=a/A:-4+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_14/I:1-6@2+1&4-1|15+6/J:xx_xx/K:2+4-20
 22300000 23400000 i^cl-p+a=i/A:-3+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_14/I:1-6@2+1&4-1|15+6/J:xx_xx/K:2+4-20
 23400000 24200000 cl^p-a+i=sh/A:-3+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:6_2!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_14/I:1-6@2+1&4-1|15+6/J:xx_xx/K:2+4-20

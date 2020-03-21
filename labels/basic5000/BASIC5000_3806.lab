@@ -13,11 +13,11 @@
 10000000 11000000 d^e-e+n=i/A:3+8+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-6|1+34/J:5_24/K:2+6-34
 11000000 11399999 e^e-n+i=w/A:4+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-6|1+34/J:5_24/K:2+6-34
 11399999 11800000 e^n-i+w=a/A:4+9+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-6|1+34/J:5_24/K:2+6-34
-11800000 13100000 n^i-w+a=r/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-6|1+34/J:5_24/K:2+6-34
-13100000 14200000 i^w-a+r=i/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-6|1+34/J:5_24/K:2+6-34
+11800000 13100000 n^i-w+a=pau/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-6|1+34/J:5_24/K:2+6-34
+13100000 14200000 i^w-a+pau=r/A:5+10+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:10_5#0_xx@1_1|1_10/G:4_1%0_xx_1/H:xx_xx/I:1-10@1+2&1-6|1+34/J:5_24/K:2+6-34
 14200000 16500000 w^a-pau+r=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_1/H:1_10/I:xx-xx@xx+xx&xx-xx|xx+xx/J:5_24/K:2+6-34
-16500000 17000000 w^a-r+i=ch/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:4_1#0_xx@1_5|1_24/G:3_1%0_xx_0/H:1_10/I:5-24@2+1&2-5|11+24/J:xx_xx/K:2+6-34
-17000000 17900000 a^r-i+ch=i/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:4_1#0_xx@1_5|1_24/G:3_1%0_xx_0/H:1_10/I:5-24@2+1&2-5|11+24/J:xx_xx/K:2+6-34
+16500000 17000000 a^pau-r+i=ch/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:4_1#0_xx@1_5|1_24/G:3_1%0_xx_0/H:1_10/I:5-24@2+1&2-5|11+24/J:xx_xx/K:2+6-34
+17000000 17900000 pau^r-i+ch=i/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:4_1#0_xx@1_5|1_24/G:3_1%0_xx_0/H:1_10/I:5-24@2+1&2-5|11+24/J:xx_xx/K:2+6-34
 17900000 18600000 r^i-ch+i=g/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:4_1#0_xx@1_5|1_24/G:3_1%0_xx_0/H:1_10/I:5-24@2+1&2-5|11+24/J:xx_xx/K:2+6-34
 18600000 19300000 i^ch-i+g=i/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:4_1#0_xx@1_5|1_24/G:3_1%0_xx_0/H:1_10/I:5-24@2+1&2-5|11+24/J:xx_xx/K:2+6-34
 19300000 19800000 ch^i-g+i=n/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:10_5!0_xx-1/F:4_1#0_xx@1_5|1_24/G:3_1%0_xx_0/H:1_10/I:5-24@2+1&2-5|11+24/J:xx_xx/K:2+6-34

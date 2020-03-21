@@ -4,11 +4,11 @@
 4000000 5200000 f^u-s+a=i/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:4_1%0_xx_1/H:xx_xx/I:1-4@1+2&1-4|1+24/J:3_20/K:2+4-24
 5200000 6000000 u^s-a+i=w/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:4_1%0_xx_1/H:xx_xx/I:1-4@1+2&1-4|1+24/J:3_20/K:2+4-24
 6000000 6400000 s^a-i+w=a/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:4_1%0_xx_1/H:xx_xx/I:1-4@1+2&1-4|1+24/J:3_20/K:2+4-24
-6400000 7900000 a^i-w+a=k/A:3+4+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:4_1%0_xx_1/H:xx_xx/I:1-4@1+2&1-4|1+24/J:3_20/K:2+4-24
-7900000 8700000 i^w-a+k=a/A:3+4+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:4_1%0_xx_1/H:xx_xx/I:1-4@1+2&1-4|1+24/J:3_20/K:2+4-24
+6400000 7900000 a^i-w+a=pau/A:3+4+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:4_1%0_xx_1/H:xx_xx/I:1-4@1+2&1-4|1+24/J:3_20/K:2+4-24
+7900000 8700000 i^w-a+pau=k/A:3+4+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:4_1%0_xx_1/H:xx_xx/I:1-4@1+2&1-4|1+24/J:3_20/K:2+4-24
 8700000 9800000 w^a-pau+k=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_1%0_xx_1/H:1_4/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_20/K:2+4-24
-9800000 10800000 w^a-k+a=g/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:4_1#0_xx@1_3|1_20/G:9_5%0_xx_0/H:1_4/I:3-20@2+1&2-3|5+20/J:xx_xx/K:2+4-24
-10800000 11100000 a^k-a+g=a/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:4_1#0_xx@1_3|1_20/G:9_5%0_xx_0/H:1_4/I:3-20@2+1&2-3|5+20/J:xx_xx/K:2+4-24
+9800000 10800000 a^pau-k+a=g/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:4_1#0_xx@1_3|1_20/G:9_5%0_xx_0/H:1_4/I:3-20@2+1&2-3|5+20/J:xx_xx/K:2+4-24
+10800000 11100000 pau^k-a+g=a/A:0+1+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:4_1#0_xx@1_3|1_20/G:9_5%0_xx_0/H:1_4/I:3-20@2+1&2-3|5+20/J:xx_xx/K:2+4-24
 11100000 11600000 k^a-g+a=k/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:4_1#0_xx@1_3|1_20/G:9_5%0_xx_0/H:1_4/I:3-20@2+1&2-3|5+20/J:xx_xx/K:2+4-24
 11600000 12600000 a^g-a+k=u/A:1+2+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:4_1#0_xx@1_3|1_20/G:9_5%0_xx_0/H:1_4/I:3-20@2+1&2-3|5+20/J:xx_xx/K:2+4-24
 12600000 13400000 g^a-k+u=o/A:2+3+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_1!0_xx-1/F:4_1#0_xx@1_3|1_20/G:9_5%0_xx_0/H:1_4/I:3-20@2+1&2-3|5+20/J:xx_xx/K:2+4-24

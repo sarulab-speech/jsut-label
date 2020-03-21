@@ -29,11 +29,11 @@
 19300000 20099999 r^u-u+ch=i/A:-2+5+3/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:7_7#0_xx@3_1|13_7/G:6_6%0_xx_1/H:xx_xx/I:3-19@1+2&1-4|1+25/J:1_6/K:2+4-25
 20099999 21200000 u^u-ch+i=n/A:-1+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:7_7#0_xx@3_1|13_7/G:6_6%0_xx_1/H:xx_xx/I:3-19@1+2&1-4|1+25/J:1_6/K:2+4-25
 21200000 21500000 u^ch-i+n=i/A:-1+6+2/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:7_7#0_xx@3_1|13_7/G:6_6%0_xx_1/H:xx_xx/I:3-19@1+2&1-4|1+25/J:1_6/K:2+4-25
-21500000 22200000 ch^i-n+i=n/A:0+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:7_7#0_xx@3_1|13_7/G:6_6%0_xx_1/H:xx_xx/I:3-19@1+2&1-4|1+25/J:1_6/K:2+4-25
-22200000 23200000 i^n-i+n=e/A:0+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:7_7#0_xx@3_1|13_7/G:6_6%0_xx_1/H:xx_xx/I:3-19@1+2&1-4|1+25/J:1_6/K:2+4-25
+21500000 22200000 ch^i-n+i=pau/A:0+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:7_7#0_xx@3_1|13_7/G:6_6%0_xx_1/H:xx_xx/I:3-19@1+2&1-4|1+25/J:1_6/K:2+4-25
+22200000 23200000 i^n-i+pau=n/A:0+7+1/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:4_4!0_xx-0/F:7_7#0_xx@3_1|13_7/G:6_6%0_xx_1/H:xx_xx/I:3-19@1+2&1-4|1+25/J:1_6/K:2+4-25
 23200000 23900000 n^i-pau+n=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_6%0_xx_1/H:3_19/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_6/K:2+4-25
-23900000 24300000 n^i-n+e=t/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_19/I:1-6@2+1&4-1|20+6/J:xx_xx/K:2+4-25
-24300000 25000000 i^n-e+t=e/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_19/I:1-6@2+1&4-1|20+6/J:xx_xx/K:2+4-25
+23900000 24300000 i^pau-n+e=t/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_19/I:1-6@2+1&4-1|20+6/J:xx_xx/K:2+4-25
+24300000 25000000 pau^n-e+t=e/A:-5+1+6/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_19/I:1-6@2+1&4-1|20+6/J:xx_xx/K:2+4-25
 25000000 25400000 n^e-t+e=sh/A:-4+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_19/I:1-6@2+1&4-1|20+6/J:xx_xx/K:2+4-25
 25400000 25700000 e^t-e+sh=i/A:-4+2+5/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_19/I:1-6@2+1&4-1|20+6/J:xx_xx/K:2+4-25
 25700000 26900000 t^e-sh+i=m/A:-3+3+4/B:xx-xx_xx/C:xx_xx+xx/D:xx+xx_xx/E:7_7!0_xx-1/F:6_6#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:3_19/I:1-6@2+1&4-1|20+6/J:xx_xx/K:2+4-25
