@@ -1,6 +1,6 @@
 # jsut-label
 HTS-style context labels of [JSUT corpus](https://sites.google.com/site/shinnosuketakamichi/publication/jsut) available for speech synthesis system such as [HTS](http://hts.sp.nitech.ac.jp/), [Merlin](https://github.com/CSTR-edinburgh/merlin), and [nnmnkwii](https://github.com/r9y9/nnmnkwii). Phonetic and prosodic information are based on manual annotation. Time information are automatically estimated using [Julius](https://github.com/julius-speech/julius).
-Currently, this repository provides the labels of the BASIC5000 subset. Also, the pronounced texts and kanas are listed in [./text_kana](http://github.com/sarulab-speech/jsut-label/text_kana).
+Currently, this repository provides the labels of the BASIC5000 subset. Also, the pronounced texts and kanas are listed in [./text_kana](text_kana).
 
 ## Notice
 The context labels are not completely the same format as those created using OpenJTalk. The followings are NOT supported in the labels.
