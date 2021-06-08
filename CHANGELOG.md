@@ -1,6 +1,12 @@
 # CHANGELOG
 
-## [v0.0.2] - 2020-XX-XX
+## [v0.0.3] - 2021-06-09
+### Added
+- Add kana_level0 in text_kana/basic5000.yaml, which represents supposed pronunciation of original text
+### Fixed
+- Modify text info of BASIC5000_2474 BASIC5000_3513 BASIC5000_4248 in text_kana/basic5000.yaml
+
+## [v0.0.2] - 2020-03-20
 ### Fixed
 - `#1` : Fix previous and next pauses in context labels
 
