@@ -10,8 +10,8 @@ The context labels are not completely the same format as those created using Ope
 ## License
 The label data is licensed with the CC-BY-SA 4.0, etc. See LICENSE.txt file for the detail.
 
-## Contributers
-- Tomoki Koriyama (Main contributer) ([@hyama5](https://github.com/hyama5))
+## Contributors
+- Tomoki Koriyama (Main contributor) ([@hyama5](https://github.com/hyama5))
 - [Shinnosuke Takamichi](https://sites.google.com/site/shinnosuketakamichi/)
 
 ## Acknowledgements
