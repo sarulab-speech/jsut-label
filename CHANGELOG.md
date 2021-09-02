@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v0.0.4] - 2021-09-02
+### Added
+- Add e2e_symbol for the input sequence of end-to-end speech symthesis
+
 ## [v0.0.3] - 2021-06-09
 ### Added
 - Add kana_level0 in text_kana/basic5000.yaml, which represents supposed pronunciation of original text
